@@ -1,0 +1,6 @@
+2023-06-26T13:38:14.869685600255-13:38:14 **** Incremental Build of configuration Debug for project vitis_proj_system ****
+000-make all 
+000-Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+00255-
+13:38:14 Build Finished (took 117ms)
+

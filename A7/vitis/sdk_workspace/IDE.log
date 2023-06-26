@@ -1,0 +1,39 @@
+13:35:57 INFO  : Registering command handlers for Vitis TCF services
+13:35:58 INFO  : plnx-install-location is set to ''
+13:36:00 INFO  : Result from executing command 'getProjects': system_wrapper
+13:36:00 INFO  : Platform repository initialization has completed.
+13:36:01 INFO  : Result from executing command 'getPlatforms': 
+13:36:01 INFO  : Result from executing command 'getProjects': system_wrapper
+13:36:01 INFO  : Result from executing command 'getPlatforms': system_wrapper|C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/system_wrapper.xpfm
+13:36:01 INFO  : Result from executing command 'getProjects': system_wrapper
+13:36:01 INFO  : Result from executing command 'getPlatforms': system_wrapper|C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/system_wrapper.xpfm
+13:36:01 INFO  : Result from executing command 'reportPlatform': {system_wrapper={standalone_domain={Os=standalone, DomainName=standalone_domain, CpuType=microblaze_0, CpuInstance=microblaze_0}}}
+13:36:01 INFO  : Result from executing command 'reportPlatform': {system_wrapper={standalone_domain={Os=standalone, DomainName=standalone_domain, CpuType=microblaze_0, CpuInstance=microblaze_0}}}
+13:36:03 INFO  : Successfully done query RDI_DATADIR 
+13:36:04 INFO  : Result from executing command 'reportApp': {fsblpath=fsbl is not available in the platform., Platform Path=C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/system_wrapper.xpfm, Domain=standalone_domain, platform=system_wrapper}
+13:36:04 INFO  : Result from executing command 'reportPlatform': {system_wrapper={standalone_domain={Os=standalone, DomainName=standalone_domain, CpuType=microblaze_0, CpuInstance=microblaze_0}}}
+13:36:04 INFO  : Result from executing command 'getDefinitions': {assembler-flags={description=Miscellaneous flags for assembler , props=add set}, build-config={values=Debug,Release, description=Get/set build configuration, props=set}, library-search-path={description=Search path for the libraries added, props=add remove}, compiler-misc={description=Compiler miscellaneous flags, props=add set}, define-compiler-symbols={description=Define symbols. Ex. MYSYMBOL, props=add remove}, compiler-optimization={values=None (-O0), Optimize (-O1), Optimize more (-O2), Optimize most (-O3), Optimize for size (-Os), description=Optimization level, props=set}, libraries={description=Libraries to be added while linking, props=add remove}, undef-compiler-symbols={description=Undefine symbols. Ex. MYSYMBOL, props=add remove}, linker-misc={description=Linker miscellaneous flags, props=add set}, include-path={description=Include path for header files, props=add remove}, linker-script={description=Linker script for linking the program sections, props=set}}
+13:36:04 INFO  : Result from executing command 'getProjects': system_wrapper;vitis_proj;vitis_proj_system
+13:36:04 INFO  : Result from executing command 'set': null
+13:36:04 ERROR : xsct server communication channel has closed unexpectedly.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(Unknown Source)
+	at java.base/java.net.SocketInputStream.read(Unknown Source)
+	at java.base/java.io.BufferedInputStream.read1(Unknown Source)
+	at java.base/java.io.BufferedInputStream.read(Unknown Source)
+	at java.base/java.io.FilterInputStream.read(Unknown Source)
+	at org.eclipse.tcf.core.ChannelTCP.get(ChannelTCP.java:186)
+	at org.eclipse.tcf.core.StreamChannel.read(StreamChannel.java:85)
+	at org.eclipse.tcf.core.AbstractChannel$1.run(AbstractChannel.java:329)
+13:37:34 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\txzing\Desktop\test\Lattice_A7\A7\vitis\sdk_workspace\temp_xsdb_launch_script.tcl
+13:37:36 INFO  : XSCT server has started successfully.
+13:37:36 INFO  : Successfully done setting XSCT server connection channel  
+13:37:36 INFO  : plnx-install-location is set to ''
+13:37:36 INFO  : Successfully done setting workspace for the tool. 
+13:37:39 INFO  : Platform repository initialization has completed.
+13:37:39 INFO  : Successfully done query RDI_DATADIR 
+13:37:39 INFO  : Registering command handlers for Vitis TCF services
+13:38:05 INFO  : Result from executing command 'getProjects': system_wrapper
+13:38:05 INFO  : Result from executing command 'getPlatforms': system_wrapper|C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/system_wrapper.xpfm
+13:38:05 INFO  : Checking for BSP changes to sync application flags for project 'vitis_proj'...
+13:38:14 INFO  : Checking for BSP changes to sync application flags for project 'vitis_proj'...

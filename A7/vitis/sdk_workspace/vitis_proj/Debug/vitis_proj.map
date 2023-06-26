@@ -1,0 +1,903 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+                              ./src/helloworld.o (XGpio_SetDataDirection)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+                              ./src/helloworld.o (XGpio_Initialize)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+                              ./src/helloworld.o (sleep)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o) (Xil_Assert)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+                              ./src/platform.o (Xil_DCacheDisable)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+                              D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o (_interrupt_handler)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+                              ./src/helloworld.o (xil_printf)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o) (outbyte)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o) (usleep_MB)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_cache_ext.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o) (microblaze_invalidate_cache_ext)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_dcache.o)
+                              ./src/platform.o (microblaze_enable_dcache)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_icache.o)
+                              ./src/platform.o (microblaze_enable_icache)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_dcache.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o) (microblaze_disable_dcache)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_icache.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o) (microblaze_invalidate_icache)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_flush_cache_ext.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o) (microblaze_flush_cache_ext)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_dcache.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o) (microblaze_invalidate_dcache)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_icache.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o) (microblaze_disable_icache)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(hw_exception_handler.o)
+                              D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o (_hw_exception_handler)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o) (XUartLite_SendByte)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_g.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o) (XGpio_ConfigTable)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupts_g.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o) (MB_InterruptVectorTable)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a(udivsi3.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o) (__udivsi3)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a(umodsi3.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o) (__umodsi3)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-ctype_.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o) (_ctype_)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-exit.o)
+                              D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o (exit)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-impure.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-exit.o) (_global_impure_ptr)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-strlen.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o) (strlen)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-__call_atexit.o)
+                              C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-exit.o) (__call_exitprocs)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_exception_handler.o)
+                              D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o (_exception_handler)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_clean.o)
+                              D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o (_program_clean)
+C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_init.o)
+                              D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o (_program_init)
+
+Allocating common symbols
+Common symbol       size              file
+
+XGpioInst           0x10              ./src/helloworld.o
+Xil_AssertStatus    0x4               C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .bss           0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .text          0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crti.o
+ .data          0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crti.o
+ .bss           0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crti.o
+ .text          0x0000000000000000      0x15c D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtbegin.o
+ .data          0x0000000000000000        0x4 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtbegin.o
+ .bss           0x0000000000000000       0x1c D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtbegin.o
+ .init_array    0x0000000000000000        0x4 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtbegin.o
+ .data          0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o
+ .bss           0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/helloworld.o
+ .text          0x0000000000000000        0x0 ./src/helloworld.o
+ .data          0x0000000000000000        0x0 ./src/helloworld.o
+ .bss           0x0000000000000000        0x0 ./src/helloworld.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .group         0x0000000000000000        0xc ./src/platform.o
+ .text          0x0000000000000000        0x0 ./src/platform.o
+ .data          0x0000000000000000        0x0 ./src/platform.o
+ .bss           0x0000000000000000        0x0 ./src/platform.o
+ .text.disable_caches
+                0x0000000000000000       0x44 ./src/platform.o
+ .text.cleanup_platform
+                0x0000000000000000       0x38 ./src/platform.o
+ .debug_macro   0x0000000000000000      0x688 ./src/platform.o
+ .debug_macro   0x0000000000000000      0xe4f ./src/platform.o
+ .debug_macro   0x0000000000000000       0x22 ./src/platform.o
+ .debug_macro   0x0000000000000000       0xef ./src/platform.o
+ .debug_macro   0x0000000000000000       0x6a ./src/platform.o
+ .debug_macro   0x0000000000000000      0x1df ./src/platform.o
+ .debug_macro   0x0000000000000000       0x4a ./src/platform.o
+ .debug_macro   0x0000000000000000       0x35 ./src/platform.o
+ .debug_macro   0x0000000000000000       0x5e ./src/platform.o
+ .debug_macro   0x0000000000000000      0x1fb ./src/platform.o
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .text.XGpio_GetDataDirection
+                0x0000000000000000      0x104 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .text.XGpio_DiscreteRead
+                0x0000000000000000      0x100 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .text.XGpio_LookupConfig
+                0x0000000000000000       0x28 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .text.usleep   0x0000000000000000       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .text.Xil_AssertSetCallback
+                0x0000000000000000       0x10 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .text.Xil_DCacheDisable
+                0x0000000000000000       0x50 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .text.Xil_ICacheDisable
+                0x0000000000000000       0x38 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .debug_frame   0x0000000000000000       0x50 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .debug_info    0x0000000000000000      0x198 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .debug_abbrev  0x0000000000000000       0x95 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .debug_aranges
+                0x0000000000000000       0x28 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .debug_ranges  0x0000000000000000       0x18 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .debug_line    0x0000000000000000      0x1fd C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .debug_str     0x0000000000000000      0x2b0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_cache.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+ .text.microblaze_register_handler
+                0x0000000000000000       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .text.usleep_MB
+                0x0000000000000000       0x28 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .text.MB_Sleep
+                0x0000000000000000       0x28 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .text          0x0000000000000000        0x8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_cache_ext.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_cache_ext.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_cache_ext.o)
+ .debug_line    0x0000000000000000       0x52 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_cache_ext.o)
+ .debug_info    0x0000000000000000       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_cache_ext.o)
+ .debug_abbrev  0x0000000000000000       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_cache_ext.o)
+ .debug_aranges
+                0x0000000000000000       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_cache_ext.o)
+ .debug_str     0x0000000000000000       0xc9 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_cache_ext.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_dcache.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_dcache.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_icache.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_icache.o)
+ .text          0x0000000000000000       0x1c C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_dcache.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_dcache.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_dcache.o)
+ .debug_line    0x0000000000000000       0x51 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_dcache.o)
+ .debug_info    0x0000000000000000       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_dcache.o)
+ .debug_abbrev  0x0000000000000000       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_dcache.o)
+ .debug_aranges
+                0x0000000000000000       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_dcache.o)
+ .debug_str     0x0000000000000000       0xc3 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_dcache.o)
+ .text          0x0000000000000000        0x8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_icache.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_icache.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_icache.o)
+ .debug_line    0x0000000000000000       0x50 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_icache.o)
+ .debug_info    0x0000000000000000       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_icache.o)
+ .debug_abbrev  0x0000000000000000       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_icache.o)
+ .debug_aranges
+                0x0000000000000000       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_icache.o)
+ .debug_str     0x0000000000000000       0xc6 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_icache.o)
+ .text          0x0000000000000000        0x8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_flush_cache_ext.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_flush_cache_ext.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_flush_cache_ext.o)
+ .debug_line    0x0000000000000000       0x4d C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_flush_cache_ext.o)
+ .debug_info    0x0000000000000000       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_flush_cache_ext.o)
+ .debug_abbrev  0x0000000000000000       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_flush_cache_ext.o)
+ .debug_aranges
+                0x0000000000000000       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_flush_cache_ext.o)
+ .debug_str     0x0000000000000000       0xc4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_flush_cache_ext.o)
+ .text          0x0000000000000000        0x8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_dcache.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_dcache.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_dcache.o)
+ .debug_line    0x0000000000000000       0x50 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_dcache.o)
+ .debug_info    0x0000000000000000       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_dcache.o)
+ .debug_abbrev  0x0000000000000000       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_dcache.o)
+ .debug_aranges
+                0x0000000000000000       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_dcache.o)
+ .debug_str     0x0000000000000000       0xc6 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_invalidate_dcache.o)
+ .text          0x0000000000000000       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_icache.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_icache.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_icache.o)
+ .debug_line    0x0000000000000000       0x4f C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_icache.o)
+ .debug_info    0x0000000000000000       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_icache.o)
+ .debug_abbrev  0x0000000000000000       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_icache.o)
+ .debug_aranges
+                0x0000000000000000       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_icache.o)
+ .debug_str     0x0000000000000000       0xc3 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_disable_icache.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(hw_exception_handler.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(hw_exception_handler.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+ .text.XUartLite_RecvByte
+                0x0000000000000000       0x1c C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_g.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_g.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_g.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupts_g.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupts_g.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupts_g.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a(udivsi3.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a(udivsi3.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a(umodsi3.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a(umodsi3.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_exception_handler.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_exception_handler.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_clean.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_clean.o)
+ .data          0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_init.o)
+ .bss           0x0000000000000000        0x0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_init.o)
+ .text          0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtend.o
+ .data          0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtend.o
+ .bss           0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtend.o
+ .eh_frame      0x0000000000000000        0x4 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtend.o
+ .text          0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtn.o
+ .data          0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtn.o
+ .bss           0x0000000000000000        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+microblaze_0_local_memory_ilmb_bram_if_cntlr_Mem_microblaze_0_local_memory_dlmb_bram_if_cntlr_Mem 0x0000000000000050 0x000000000000ffb0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+LOAD D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crti.o
+LOAD D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtbegin.o
+LOAD D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o
+                0x0000000000000400                _STACK_SIZE = DEFINED (_STACK_SIZE)?_STACK_SIZE:0x400
+                0x0000000000000800                _HEAP_SIZE = DEFINED (_HEAP_SIZE)?_HEAP_SIZE:0x800
+
+.vectors.reset  0x0000000000000000        0x8
+ *(.vectors.reset)
+ .vectors.reset
+                0x0000000000000000        0x8 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+                0x0000000000000000                _start
+
+.vectors.sw_exception
+                0x0000000000000008        0x8
+ *(.vectors.sw_exception)
+ .vectors.sw_exception
+                0x0000000000000008        0x8 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+
+.vectors.interrupt
+                0x0000000000000010        0x8
+ *(.vectors.interrupt)
+ .vectors.interrupt
+                0x0000000000000010        0x8 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+
+.vectors.hw_exception
+                0x0000000000000020        0x8
+ *(.vectors.hw_exception)
+ .vectors.hw_exception
+                0x0000000000000020        0x8 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+
+.text           0x0000000000000050     0x1288
+ *(.text)
+ .text          0x0000000000000050       0x34 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+                0x0000000000000050                _start1
+                0x0000000000000080                _exit
+ .text          0x0000000000000084       0xb0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o
+                0x0000000000000084                _crtinit
+ .text          0x0000000000000134       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_dcache.o)
+                0x0000000000000134                microblaze_enable_dcache
+ .text          0x0000000000000148       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_icache.o)
+                0x0000000000000148                microblaze_enable_icache
+ .text          0x000000000000015c        0x4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(hw_exception_handler.o)
+                0x000000000000015c                _hw_exception_handler
+ .text          0x0000000000000160       0xa8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a(udivsi3.o)
+                0x0000000000000160                __udivsi3
+ .text          0x0000000000000208       0xbc C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a(umodsi3.o)
+                0x0000000000000208                __umodsi3
+ .text          0x00000000000002c4       0x40 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-exit.o)
+                0x00000000000002c4                exit
+ .text          0x0000000000000304       0x6c C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-strlen.o)
+                0x0000000000000304                strlen
+ .text          0x0000000000000370      0x178 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-__call_atexit.o)
+                0x0000000000000370                __call_exitprocs
+ .text          0x00000000000004e8        0x4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_exception_handler.o)
+                0x00000000000004e8                _exception_handler
+ .text          0x00000000000004ec        0x8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_clean.o)
+                0x00000000000004ec                _program_clean
+ .text          0x00000000000004f4        0x8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_init.o)
+                0x00000000000004f4                _program_init
+ *(.text.*)
+ .text.XGpioSetup
+                0x00000000000004fc       0x9c ./src/helloworld.o
+                0x00000000000004fc                XGpioSetup
+ .text.main     0x0000000000000598       0x8c ./src/helloworld.o
+                0x0000000000000598                main
+ .text.enable_caches
+                0x0000000000000624       0x44 ./src/platform.o
+                0x0000000000000624                enable_caches
+ .text.init_uart
+                0x0000000000000668       0x24 ./src/platform.o
+                0x0000000000000668                init_uart
+ .text.init_platform
+                0x000000000000068c       0x44 ./src/platform.o
+                0x000000000000068c                init_platform
+ .text.XGpio_CfgInitialize
+                0x00000000000006d0       0x6c C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+                0x00000000000006d0                XGpio_CfgInitialize
+ .text.XGpio_SetDataDirection
+                0x000000000000073c       0xe8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+                0x000000000000073c                XGpio_SetDataDirection
+ .text.XGpio_DiscreteWrite
+                0x0000000000000824       0xe4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+                0x0000000000000824                XGpio_DiscreteWrite
+ .text.XGpio_Initialize
+                0x0000000000000908       0x98 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+                0x0000000000000908                XGpio_Initialize
+ .text.sleep    0x00000000000009a0       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+                0x00000000000009a0                sleep
+ .text.Xil_Assert
+                0x00000000000009c0       0x48 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+                0x00000000000009c0                Xil_Assert
+ .text.XNullHandler
+                0x0000000000000a08        0x8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+                0x0000000000000a08                XNullHandler
+ .text.__interrupt_handler
+                0x0000000000000a10       0xa4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+                0x0000000000000a10                __interrupt_handler
+                0x0000000000000a10                _interrupt_handler
+ .text.padding.part.0
+                0x0000000000000ab4       0x58 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .text.outnum   0x0000000000000b0c      0x200 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .text.xil_printf
+                0x0000000000000d0c      0x554 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+                0x0000000000000d0c                xil_printf
+ .text.outbyte  0x0000000000001260       0x2c C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+                0x0000000000001260                outbyte
+ .text.sleep_MB
+                0x000000000000128c       0x2c C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+                0x000000000000128c                sleep_MB
+ .text.XUartLite_SendByte
+                0x00000000000012b8       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+                0x00000000000012b8                XUartLite_SendByte
+ *(.gnu.linkonce.t.*)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.init           0x00000000000012d8       0x24
+ *(.init)
+ .init          0x00000000000012d8       0x18 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crti.o
+                0x00000000000012d8                __init
+ .init          0x00000000000012f0        0xc D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtn.o
+
+.fini           0x00000000000012fc       0x14
+ *(.fini)
+ .fini          0x00000000000012fc        0x8 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crti.o
+                0x00000000000012fc                __fini
+ .fini          0x0000000000001304        0xc D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtn.o
+
+.ctors          0x0000000000001310        0x0
+                0x0000000000001310                __CTOR_LIST__ = .
+                0x0000000000001310                ___CTORS_LIST___ = .
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x0000000000001310                __CTOR_END__ = .
+                0x0000000000001310                ___CTORS_END___ = .
+
+.dtors          0x0000000000001310        0x0
+                0x0000000000001310                __DTOR_LIST__ = .
+                0x0000000000001310                ___DTORS_LIST___ = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                [!provide]                        PROVIDE (__DTOR_END__ = .)
+                [!provide]                        PROVIDE (___DTORS_END___ = .)
+
+.rodata         0x0000000000001310      0x444
+                0x0000000000001310                __rodata_start = .
+ *(.rodata)
+ .rodata        0x0000000000001310       0x3d ./src/helloworld.o
+ *fill*         0x000000000000134d        0x3 
+ .rodata        0x0000000000001350        0x8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .rodata        0x0000000000001358        0xe C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ *fill*         0x0000000000001366        0x2 
+ .rodata        0x0000000000001368       0x11 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ *fill*         0x0000000000001379        0x3 
+ .rodata        0x000000000000137c      0x284 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-ctype_.o)
+                0x000000000000137c                _ctype_
+                0x0000000000001480                _ctype_b
+ .rodata        0x0000000000001600        0x4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-impure.o)
+                0x0000000000001600                _global_impure_ptr
+ *(.rodata.*)
+ .rodata.xil_printf
+                0x0000000000001604      0x150 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ *(.gnu.linkonce.r.*)
+                0x0000000000001754                __rodata_end = .
+
+.rela.dyn       0x0000000000001754        0x0
+ .rela.text     0x0000000000001754        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .rela.vectors.sw_exception
+                0x0000000000001754        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .rela.text.main
+                0x0000000000001754        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .rela.text.XGpio_CfgInitialize
+                0x0000000000001754        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .rela.text.XGpio_SetDataDirection
+                0x0000000000001754        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .rela.text.XGpio_DiscreteWrite
+                0x0000000000001754        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .rela.text.XGpio_Initialize
+                0x0000000000001754        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .rela.data     0x0000000000001754        0x0 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+
+.sdata2         0x0000000000001754        0x4
+                0x0000000000001758                . = ALIGN (0x8)
+ *fill*         0x0000000000001754        0x4 
+                0x0000000000001758                __sdata2_start = .
+ *(.sdata2)
+ *(.sdata2.*)
+ *(.gnu.linkonce.s2.*)
+                0x0000000000001758                . = ALIGN (0x8)
+                0x0000000000001758                __sdata2_end = .
+
+.sbss2          0x0000000000001758        0x0
+                0x0000000000001758                __sbss2_start = .
+ *(.sbss2)
+ *(.sbss2.*)
+ *(.gnu.linkonce.sb2.*)
+                0x0000000000001758                __sbss2_end = .
+
+.data           0x0000000000001758      0x110
+                0x0000000000001758                . = ALIGN (0x4)
+                0x0000000000001758                __data_start = .
+ *(.data)
+ .data          0x0000000000001758       0xf4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a(lib_a-impure.o)
+                0x0000000000001758                _impure_ptr
+ *(.data.*)
+ .data.Xil_AssertWait
+                0x000000000000184c        0x4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+                0x000000000000184c                Xil_AssertWait
+ .data.XGpio_ConfigTable
+                0x0000000000001850       0x10 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_g.o)
+                0x0000000000001850                XGpio_ConfigTable
+ .data.MB_InterruptVectorTable
+                0x0000000000001860        0x8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupts_g.o)
+                0x0000000000001860                MB_InterruptVectorTable
+ *(.gnu.linkonce.d.*)
+                0x0000000000001868                __data_end = .
+
+.got
+ *(.got)
+
+.got1
+ *(.got1)
+
+.got2
+ *(.got2)
+
+.eh_frame
+ *(.eh_frame)
+
+.jcr
+ *(.jcr)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.sdata          0x0000000000001868        0x0
+                0x0000000000001868                . = ALIGN (0x8)
+                0x0000000000001868                __sdata_start = .
+ *(.sdata)
+ *(.sdata.*)
+ *(.gnu.linkonce.s.*)
+                0x0000000000001868                __sdata_end = .
+
+.sbss           0x0000000000001868        0x0
+                0x0000000000001868                . = ALIGN (0x4)
+                0x0000000000001868                __sbss_start = .
+ *(.sbss)
+ *(.sbss.*)
+ *(.gnu.linkonce.sb.*)
+                0x0000000000001868                . = ALIGN (0x8)
+                0x0000000000001868                __sbss_end = .
+
+.tdata          0x0000000000001868        0x0
+                0x0000000000001868                __tdata_start = .
+ *(.tdata)
+ *(.tdata.*)
+ *(.gnu.linkonce.td.*)
+                0x0000000000001868                __tdata_end = .
+
+.tbss           0x0000000000001868        0x0
+                0x0000000000001868                __tbss_start = .
+ *(.tbss)
+ *(.tbss.*)
+ *(.gnu.linkonce.tb.*)
+                0x0000000000001868                __tbss_end = .
+
+.bss            0x0000000000001868       0x18
+                0x0000000000001868                . = ALIGN (0x4)
+                0x0000000000001868                __bss_start = .
+ *(.bss)
+ *(.bss.*)
+ .bss.Xil_AssertCallbackRoutine
+                0x0000000000001868        0x4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+ COMMON         0x000000000000186c       0x10 ./src/helloworld.o
+                0x000000000000186c                XGpioInst
+ COMMON         0x000000000000187c        0x4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+                0x000000000000187c                Xil_AssertStatus
+                0x0000000000001880                . = ALIGN (0x4)
+                0x0000000000001880                __bss_end = .
+                0x0000000000001868                _SDA_BASE_ = (__sdata_start + ((__sbss_end - __sdata_start) / 0x2))
+                0x0000000000001758                _SDA2_BASE_ = (__sdata2_start + ((__sbss2_end - __sdata2_start) / 0x2))
+
+.heap           0x0000000000001880      0x800
+                0x0000000000001880                . = ALIGN (0x8)
+                0x0000000000001880                _heap = .
+                0x0000000000001880                _heap_start = .
+                0x0000000000002080                . = (. + _HEAP_SIZE)
+ *fill*         0x0000000000001880      0x800 
+                0x0000000000002080                _heap_end = .
+
+.stack          0x0000000000002080      0x400
+                0x0000000000002080                _stack_end = .
+                0x0000000000002480                . = (. + _STACK_SIZE)
+ *fill*         0x0000000000002080      0x400 
+                0x0000000000002480                . = ALIGN (0x8)
+                0x0000000000002480                _stack = .
+                0x0000000000002480                __stack = _stack
+                0x0000000000002480                _end = .
+LOAD ./src/helloworld.o
+LOAD ./src/platform.o
+START GROUP
+LOAD C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a
+LOAD C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a
+LOAD C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a
+END GROUP
+LOAD C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a
+START GROUP
+LOAD C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a
+LOAD C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a
+LOAD C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libc.a
+LOAD C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libm.a
+END GROUP
+LOAD C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgcc.a
+LOAD D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtend.o
+LOAD D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtn.o
+OUTPUT(vitis_proj.elf elf32-microblazeel)
+
+.debug_line     0x0000000000000000     0x3e47
+ .debug_line    0x0000000000000000       0xca D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .debug_line    0x00000000000000ca       0xa6 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o
+ .debug_line    0x0000000000000170      0x5b2 ./src/helloworld.o
+ .debug_line    0x0000000000000722      0x40f ./src/platform.o
+ .debug_line    0x0000000000000b31      0xa2b C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .debug_line    0x000000000000155c      0x420 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .debug_line    0x000000000000197c      0x2a7 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .debug_line    0x0000000000001c23      0x214 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .debug_line    0x0000000000001e37      0x1e7 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+ .debug_line    0x000000000000201e      0xf3f C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .debug_line    0x0000000000002f5d      0x28d C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+ .debug_line    0x00000000000031ea      0x2d7 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .debug_line    0x00000000000034c1       0x4e C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_dcache.o)
+ .debug_line    0x000000000000350f       0x4e C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_icache.o)
+ .debug_line    0x000000000000355d       0x47 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(hw_exception_handler.o)
+ .debug_line    0x00000000000035a4      0x378 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+ .debug_line    0x000000000000391c      0x240 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_g.o)
+ .debug_line    0x0000000000003b5c      0x148 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupts_g.o)
+ .debug_line    0x0000000000003ca4       0x8e C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_exception_handler.o)
+ .debug_line    0x0000000000003d32       0x8b C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_clean.o)
+ .debug_line    0x0000000000003dbd       0x8a C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_init.o)
+
+.debug_info     0x0000000000000000     0x6eee
+ .debug_info    0x0000000000000000       0x22 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .debug_info    0x0000000000000022       0x26 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o
+ .debug_info    0x0000000000000048      0xaa1 ./src/helloworld.o
+ .debug_info    0x0000000000000ae9      0x138 ./src/platform.o
+ .debug_info    0x0000000000000c21      0xe40 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .debug_info    0x0000000000001a61      0xbae C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .debug_info    0x000000000000260f      0xa1d C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .debug_info    0x000000000000302c      0x1d4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .debug_info    0x0000000000003200      0x18a C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+ .debug_info    0x000000000000338a      0xf75 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .debug_info    0x00000000000042ff      0x9e1 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+ .debug_info    0x0000000000004ce0      0xa95 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .debug_info    0x0000000000005775       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_dcache.o)
+ .debug_info    0x000000000000579b       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_icache.o)
+ .debug_info    0x00000000000057c1       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(hw_exception_handler.o)
+ .debug_info    0x00000000000057e7      0xb11 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+ .debug_info    0x00000000000062f8      0xa41 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_g.o)
+ .debug_info    0x0000000000006d39      0x143 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupts_g.o)
+ .debug_info    0x0000000000006e7c       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_exception_handler.o)
+ .debug_info    0x0000000000006ea2       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_clean.o)
+ .debug_info    0x0000000000006ec8       0x26 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_init.o)
+
+.debug_abbrev   0x0000000000000000     0x184c
+ .debug_abbrev  0x0000000000000000       0x12 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .debug_abbrev  0x0000000000000012       0x14 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o
+ .debug_abbrev  0x0000000000000026      0x1fb ./src/helloworld.o
+ .debug_abbrev  0x0000000000000221       0x8e ./src/platform.o
+ .debug_abbrev  0x00000000000002af      0x286 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .debug_abbrev  0x0000000000000535      0x27c C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .debug_abbrev  0x00000000000007b1      0x1e2 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .debug_abbrev  0x0000000000000993      0x10f C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .debug_abbrev  0x0000000000000aa2       0xf4 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+ .debug_abbrev  0x0000000000000b96      0x390 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .debug_abbrev  0x0000000000000f26      0x1e2 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+ .debug_abbrev  0x0000000000001108      0x21f C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .debug_abbrev  0x0000000000001327       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_dcache.o)
+ .debug_abbrev  0x000000000000133b       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_icache.o)
+ .debug_abbrev  0x000000000000134f       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(hw_exception_handler.o)
+ .debug_abbrev  0x0000000000001363      0x257 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+ .debug_abbrev  0x00000000000015ba      0x19a C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_g.o)
+ .debug_abbrev  0x0000000000001754       0xbc C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupts_g.o)
+ .debug_abbrev  0x0000000000001810       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_exception_handler.o)
+ .debug_abbrev  0x0000000000001824       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_clean.o)
+ .debug_abbrev  0x0000000000001838       0x14 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_init.o)
+
+.debug_aranges  0x0000000000000000      0x348
+ .debug_aranges
+                0x0000000000000000       0x40 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .debug_aranges
+                0x0000000000000040       0x20 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o
+ .debug_aranges
+                0x0000000000000060       0x28 ./src/helloworld.o
+ .debug_aranges
+                0x0000000000000088       0x40 ./src/platform.o
+ .debug_aranges
+                0x00000000000000c8       0x40 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .debug_aranges
+                0x0000000000000108       0x28 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .debug_aranges
+                0x0000000000000130       0x28 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .debug_aranges
+                0x0000000000000158       0x30 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .debug_aranges
+                0x0000000000000188       0x28 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+ .debug_aranges
+                0x00000000000001b0       0x30 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+ .debug_aranges
+                0x0000000000000200       0x30 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .debug_aranges
+                0x0000000000000230       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_dcache.o)
+ .debug_aranges
+                0x0000000000000250       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_icache.o)
+ .debug_aranges
+                0x0000000000000270       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(hw_exception_handler.o)
+ .debug_aranges
+                0x0000000000000290       0x28 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+ .debug_aranges
+                0x00000000000002b8       0x18 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_g.o)
+ .debug_aranges
+                0x00000000000002d0       0x18 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupts_g.o)
+ .debug_aranges
+                0x00000000000002e8       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_exception_handler.o)
+ .debug_aranges
+                0x0000000000000308       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_clean.o)
+ .debug_aranges
+                0x0000000000000328       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_init.o)
+
+.debug_str      0x0000000000000000    0x10e1f
+ .debug_str     0x0000000000000000       0x99 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .debug_str     0x0000000000000099       0x54 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crtinit.o
+                                         0x9c (size before relaxing)
+ .debug_str     0x00000000000000ed     0xff28 ./src/helloworld.o
+                                      0x101ae (size before relaxing)
+ .debug_str     0x0000000000010015      0x664 ./src/platform.o
+                                       0xa8bc (size before relaxing)
+ .debug_str     0x0000000000010679      0x1b8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+                                        0x749 (size before relaxing)
+ .debug_str     0x0000000000010831       0x5b C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+                                        0x6ef (size before relaxing)
+ .debug_str     0x000000000001088c       0xc5 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+                                        0x638 (size before relaxing)
+ .debug_str     0x0000000000010951       0x7b C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+                                        0x265 (size before relaxing)
+ .debug_str     0x00000000000109cc       0xaa C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+                                        0x289 (size before relaxing)
+ .debug_str     0x0000000000010a76      0x109 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+                                        0x728 (size before relaxing)
+ .debug_str     0x0000000000010b7f       0x1d C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+                                        0x61a (size before relaxing)
+ .debug_str     0x0000000000010b9c       0x3c C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+                                        0x655 (size before relaxing)
+ .debug_str     0x0000000000010bd8       0x1b C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_dcache.o)
+                                         0xc2 (size before relaxing)
+ .debug_str     0x0000000000010bf3       0x1b C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_enable_icache.o)
+                                         0xc2 (size before relaxing)
+ .debug_str     0x0000000000010c0e       0x17 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(hw_exception_handler.o)
+                                         0xbe (size before relaxing)
+ .debug_str     0x0000000000010c25       0xc2 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+                                        0x690 (size before relaxing)
+ .debug_str     0x0000000000010ce7        0xa C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_g.o)
+                                        0x677 (size before relaxing)
+ .debug_str     0x0000000000010cf1       0x1a C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupts_g.o)
+                                        0x24c (size before relaxing)
+ .debug_str     0x0000000000010d0b       0x5f C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_exception_handler.o)
+                                         0xa7 (size before relaxing)
+ .debug_str     0x0000000000010d6a       0x5b C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_clean.o)
+                                         0xa3 (size before relaxing)
+ .debug_str     0x0000000000010dc5       0x5a C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libgloss.a(_program_init.o)
+                                         0xa2 (size before relaxing)
+
+.debug_ranges   0x0000000000000000      0x298
+ .debug_ranges  0x0000000000000000       0x38 D:/Vivado/Vitis/2020.1/gnu/microblaze/nt/bin//../microblazeeb-xilinx-elf/usr/lib/le/crt0.o
+ .debug_ranges  0x0000000000000038       0x18 ./src/helloworld.o
+ .debug_ranges  0x0000000000000050       0x30 ./src/platform.o
+ .debug_ranges  0x0000000000000080       0x90 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .debug_ranges  0x0000000000000110       0x38 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .debug_ranges  0x0000000000000148       0x18 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .debug_ranges  0x0000000000000160       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .debug_ranges  0x0000000000000180       0x18 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+ .debug_ranges  0x0000000000000198       0xb8 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .debug_ranges  0x0000000000000250       0x10 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+ .debug_ranges  0x0000000000000260       0x20 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .debug_ranges  0x0000000000000280       0x18 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+
+.debug_frame    0x0000000000000000      0x484
+ .debug_frame   0x0000000000000000       0x60 ./src/helloworld.o
+ .debug_frame   0x0000000000000060       0xd8 ./src/platform.o
+ .debug_frame   0x0000000000000138       0xb0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .debug_frame   0x00000000000001e8       0x40 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .debug_frame   0x0000000000000228       0x50 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .debug_frame   0x0000000000000278       0x58 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .debug_frame   0x00000000000002d0       0x64 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_interrupt_handler.o)
+ .debug_frame   0x0000000000000334       0xb0 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .debug_frame   0x00000000000003e4       0x30 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+ .debug_frame   0x0000000000000414       0x40 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .debug_frame   0x0000000000000454       0x30 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)
+
+.debug_macro    0x0000000000000000     0x34ca
+ .debug_macro   0x0000000000000000      0x29d ./src/helloworld.o
+ .debug_macro   0x000000000000029d      0x688 ./src/helloworld.o
+ .debug_macro   0x0000000000000925       0x22 ./src/helloworld.o
+ .debug_macro   0x0000000000000947       0x52 ./src/helloworld.o
+ .debug_macro   0x0000000000000999       0x19 ./src/helloworld.o
+ .debug_macro   0x00000000000009b2       0x94 ./src/helloworld.o
+ .debug_macro   0x0000000000000a46       0x3c ./src/helloworld.o
+ .debug_macro   0x0000000000000a82       0x34 ./src/helloworld.o
+ .debug_macro   0x0000000000000ab6       0x16 ./src/helloworld.o
+ .debug_macro   0x0000000000000acc       0x57 ./src/helloworld.o
+ .debug_macro   0x0000000000000b23       0x9e ./src/helloworld.o
+ .debug_macro   0x0000000000000bc1      0x32b ./src/helloworld.o
+ .debug_macro   0x0000000000000eec      0x10b ./src/helloworld.o
+ .debug_macro   0x0000000000000ff7       0x10 ./src/helloworld.o
+ .debug_macro   0x0000000000001007       0x52 ./src/helloworld.o
+ .debug_macro   0x0000000000001059       0x1f ./src/helloworld.o
+ .debug_macro   0x0000000000001078       0x43 ./src/helloworld.o
+ .debug_macro   0x00000000000010bb       0x20 ./src/helloworld.o
+ .debug_macro   0x00000000000010db      0x1a3 ./src/helloworld.o
+ .debug_macro   0x000000000000127e       0x10 ./src/helloworld.o
+ .debug_macro   0x000000000000128e       0x6a ./src/helloworld.o
+ .debug_macro   0x00000000000012f8       0x16 ./src/helloworld.o
+ .debug_macro   0x000000000000130e       0x52 ./src/helloworld.o
+ .debug_macro   0x0000000000001360       0x40 ./src/helloworld.o
+ .debug_macro   0x00000000000013a0       0x10 ./src/helloworld.o
+ .debug_macro   0x00000000000013b0       0x40 ./src/helloworld.o
+ .debug_macro   0x00000000000013f0       0xd7 ./src/helloworld.o
+ .debug_macro   0x00000000000014c7       0x1c ./src/helloworld.o
+ .debug_macro   0x00000000000014e3       0x3d ./src/helloworld.o
+ .debug_macro   0x0000000000001520       0x16 ./src/helloworld.o
+ .debug_macro   0x0000000000001536      0x145 ./src/helloworld.o
+ .debug_macro   0x000000000000167b      0x119 ./src/helloworld.o
+ .debug_macro   0x0000000000001794       0x16 ./src/helloworld.o
+ .debug_macro   0x00000000000017aa       0x35 ./src/helloworld.o
+ .debug_macro   0x00000000000017df       0x4c ./src/helloworld.o
+ .debug_macro   0x000000000000182b       0xef ./src/helloworld.o
+ .debug_macro   0x000000000000191a      0x1df ./src/helloworld.o
+ .debug_macro   0x0000000000001af9       0x4a ./src/helloworld.o
+ .debug_macro   0x0000000000001b43      0xe4f ./src/helloworld.o
+ .debug_macro   0x0000000000002992       0x10 ./src/helloworld.o
+ .debug_macro   0x00000000000029a2       0x35 ./src/helloworld.o
+ .debug_macro   0x00000000000029d7      0x412 ./src/helloworld.o
+ .debug_macro   0x0000000000002de9       0x5e ./src/helloworld.o
+ .debug_macro   0x0000000000002e47      0x1fb ./src/helloworld.o
+ .debug_macro   0x0000000000003042       0x4e ./src/helloworld.o
+ .debug_macro   0x0000000000003090       0x66 ./src/helloworld.o
+ .debug_macro   0x00000000000030f6       0x10 ./src/helloworld.o
+ .debug_macro   0x0000000000003106       0xc2 ./src/platform.o
+ .debug_macro   0x00000000000031c8       0x8e ./src/platform.o
+ .debug_macro   0x0000000000003256       0x51 ./src/platform.o
+ .debug_macro   0x00000000000032a7      0x189 ./src/platform.o
+ .debug_macro   0x0000000000003430       0x9a ./src/platform.o
+
+.debug_loc      0x0000000000000000      0xff2
+ .debug_loc     0x0000000000000000      0x68b C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio.o)
+ .debug_loc     0x000000000000068b      0x115 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xgpio_sinit.o)
+ .debug_loc     0x00000000000007a0       0x42 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_sleepcommon.o)
+ .debug_loc     0x00000000000007e2       0x58 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_assert.o)
+ .debug_loc     0x000000000000083a      0x6ac C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xil_printf.o)
+ .debug_loc     0x0000000000000ee6       0x2c C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(outbyte.o)
+ .debug_loc     0x0000000000000f12       0x7b C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(microblaze_sleep.o)
+ .debug_loc     0x0000000000000f8d       0x65 C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_domain/bsplib/lib\libxil.a(xuartlite_l.o)

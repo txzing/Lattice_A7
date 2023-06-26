@@ -1,0 +1,1363 @@
+TRACE::2023-06-26.13:35:51::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:51::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:51::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:53::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:35:53::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:35:53::SCWPlatform::Do not have an existing db opened. 
+TRACE::2023-06-26.13:35:53::SCWPlatform::Opened new HwDB with name system_wrapper
+TRACE::2023-06-26.13:35:53::SCWWriter::formatted JSON is {
+	"platformName":	"system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"system_wrapper",
+	"platHandOff":	"./xsa/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2023-06-26.13:35:53::SCWWriter::formatted JSON is {
+	"platformName":	"system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"system_wrapper",
+	"platHandOff":	"./xsa/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"system_wrapper",
+	"systems":	[{
+			"systemName":	"system_wrapper",
+			"systemDesc":	"system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"system_wrapper"
+		}]
+}
+TRACE::2023-06-26.13:35:53::SCWPlatform::Boot application domains not present, creating them
+TRACE::2023-06-26.13:35:53::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2023-06-26.13:35:53::SCWWriter::formatted JSON is {
+	"platformName":	"system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"system_wrapper",
+	"platHandOff":	"./xsa/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"system_wrapper",
+	"systems":	[{
+			"systemName":	"system_wrapper",
+			"systemDesc":	"system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"system_wrapper"
+		}]
+}
+TRACE::2023-06-26.13:35:58::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:35:58::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:35:58::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:35:58::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:35:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:35:58::SCWDomain::checking for install qemu data   : 
+TRACE::2023-06-26.13:35:58::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:35:58::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:35:58::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:35:58::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:35:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:35:58::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:35:58::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:35:58::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:35:58::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:35:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:35:58::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:35:58::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:35:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:35:58::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:35:58::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:35:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:35:58::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:35:58::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-06-26.13:35:58::SCWMssOS::No sw design opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:35:58::SCWMssOS::mss does not exists at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:35:58::SCWMssOS::Creating sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:35:58::SCWMssOS::Adding the swdes entry, created swdb C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss with des name C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:35:58::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:35:58::SCWMssOS::Writing mss at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:35:58::SCWMssOS::Completed writing the mss file at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp
+TRACE::2023-06-26.13:35:58::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2023-06-26.13:35:58::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2023-06-26.13:35:58::SCWMssOS::Completed writing the mss file at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp
+TRACE::2023-06-26.13:35:58::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2023-06-26.13:36:00::SCWMssOS::Saving the mss changes C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-26.13:36:00::SCWMssOS::Running validate of swdbs.
+KEYINFO::2023-06-26.13:36:00::SCWMssOS::Could not open the swdb for C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+KEYINFO::2023-06-26.13:36:00::SCWMssOS::Could not open the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2023-06-26.13:36:00::SCWMssOS::Cleared the swdb table entry
+TRACE::2023-06-26.13:36:00::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2023-06-26.13:36:00::SCWMssOS::Writing the mss file completed C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::Commit changes completed.
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:00::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:00::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:00::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:00::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:00::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:00::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWWriter::formatted JSON is {
+	"platformName":	"system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"system_wrapper",
+	"platHandOff":	"./xsa/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"system_wrapper",
+	"systems":	[{
+			"systemName":	"system_wrapper",
+			"systemDesc":	"system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"system_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"0a6d9c1663aa00ba1bfe78425f875701",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2023-06-26.13:36:00::SCWPlatform::Started generating the artifacts platform system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-06-26.13:36:00::SCWPlatform::Started generating the artifacts for system configuration system_wrapper
+LOG::2023-06-26.13:36:00::SCWSystem::Checking the domain standalone_domain
+LOG::2023-06-26.13:36:00::SCWSystem::Not a boot domain 
+LOG::2023-06-26.13:36:00::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2023-06-26.13:36:00::SCWDomain::Generating domain artifcats
+TRACE::2023-06-26.13:36:00::SCWMssOS::Generating standalone artifcats
+TRACE::2023-06-26.13:36:00::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:00::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:00::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::Completed writing the mss file at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp
+TRACE::2023-06-26.13:36:00::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-06-26.13:36:00::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-06-26.13:36:00::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2023-06-26.13:36:00::SCWMssOS::skipping the bsp build ... 
+TRACE::2023-06-26.13:36:00::SCWMssOS::Copying to export directory.
+TRACE::2023-06-26.13:36:00::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2023-06-26.13:36:00::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2023-06-26.13:36:00::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2023-06-26.13:36:00::SCWSystem::Completed Processing the sysconfig system_wrapper
+LOG::2023-06-26.13:36:00::SCWPlatform::Completed generating the artifacts for system configuration system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Started preparing the platform 
+TRACE::2023-06-26.13:36:00::SCWSystem::Writing the bif file for system config system_wrapper
+TRACE::2023-06-26.13:36:00::SCWSystem::dir created 
+TRACE::2023-06-26.13:36:00::SCWSystem::Writing the bif 
+TRACE::2023-06-26.13:36:00::SCWPlatform::Started writing the spfm file 
+TRACE::2023-06-26.13:36:00::SCWPlatform::Started writing the xpfm file 
+TRACE::2023-06-26.13:36:00::SCWPlatform::Completed generating the platform
+TRACE::2023-06-26.13:36:00::SCWMssOS::Saving the mss changes C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-26.13:36:00::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-26.13:36:00::SCWMssOS::Commit changes completed.
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:00::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:00::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:00::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:00::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:00::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:00::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:00::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:00::SCWWriter::formatted JSON is {
+	"platformName":	"system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"system_wrapper",
+	"platHandOff":	"./xsa/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"system_wrapper",
+	"systems":	[{
+			"systemName":	"system_wrapper",
+			"systemDesc":	"system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"system_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"0a6d9c1663aa00ba1bfe78425f875701",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2023-06-26.13:36:00::SCWPlatform::updated the xpfm file.
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::Saving the mss changes C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-26.13:36:01::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-26.13:36:01::SCWMssOS::Commit changes completed.
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWWriter::formatted JSON is {
+	"platformName":	"system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"system_wrapper",
+	"platHandOff":	"./xsa/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"system_wrapper",
+	"systems":	[{
+			"systemName":	"system_wrapper",
+			"systemDesc":	"system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"system_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"0a6d9c1663aa00ba1bfe78425f875701",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+LOG::2023-06-26.13:36:01::SCWPlatform::Started generating the artifacts platform system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-06-26.13:36:01::SCWPlatform::Started generating the artifacts for system configuration system_wrapper
+LOG::2023-06-26.13:36:01::SCWSystem::Checking the domain standalone_domain
+LOG::2023-06-26.13:36:01::SCWSystem::Not a boot domain 
+LOG::2023-06-26.13:36:01::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2023-06-26.13:36:01::SCWDomain::Generating domain artifcats
+TRACE::2023-06-26.13:36:01::SCWMssOS::Generating standalone artifcats
+TRACE::2023-06-26.13:36:01::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::Completed writing the mss file at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp
+TRACE::2023-06-26.13:36:01::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-06-26.13:36:01::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-06-26.13:36:01::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2023-06-26.13:36:01::SCWMssOS::skipping the bsp build ... 
+TRACE::2023-06-26.13:36:01::SCWMssOS::Copying to export directory.
+TRACE::2023-06-26.13:36:01::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2023-06-26.13:36:01::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2023-06-26.13:36:01::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2023-06-26.13:36:01::SCWSystem::Completed Processing the sysconfig system_wrapper
+LOG::2023-06-26.13:36:01::SCWPlatform::Completed generating the artifacts for system configuration system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Started preparing the platform 
+TRACE::2023-06-26.13:36:01::SCWSystem::Writing the bif file for system config system_wrapper
+TRACE::2023-06-26.13:36:01::SCWSystem::dir created 
+TRACE::2023-06-26.13:36:01::SCWSystem::Writing the bif 
+TRACE::2023-06-26.13:36:01::SCWPlatform::Started writing the spfm file 
+TRACE::2023-06-26.13:36:01::SCWPlatform::Started writing the xpfm file 
+TRACE::2023-06-26.13:36:01::SCWPlatform::Completed generating the platform
+TRACE::2023-06-26.13:36:01::SCWMssOS::Saving the mss changes C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-26.13:36:01::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-26.13:36:01::SCWMssOS::Commit changes completed.
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWWriter::formatted JSON is {
+	"platformName":	"system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"system_wrapper",
+	"platHandOff":	"./xsa/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"system_wrapper",
+	"systems":	[{
+			"systemName":	"system_wrapper",
+			"systemDesc":	"system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"system_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"0a6d9c1663aa00ba1bfe78425f875701",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2023-06-26.13:36:01::SCWPlatform::updated the xpfm file.
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::Saving the mss changes C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-26.13:36:01::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-26.13:36:01::SCWMssOS::Commit changes completed.
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:01::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:01::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:01::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:01::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:01::SCWWriter::formatted JSON is {
+	"platformName":	"system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"system_wrapper",
+	"platHandOff":	"./xsa/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"system_wrapper",
+	"systems":	[{
+			"systemName":	"system_wrapper",
+			"systemDesc":	"system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"system_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"0a6d9c1663aa00ba1bfe78425f875701",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"standalone":	{
+							"stdin":	"axi_uartlite_0",
+							"stdout":	"axi_uartlite_0",
+							"libOptionNames":	["stdin", "stdout"]
+						},
+						"libsContainingOptions":	["standalone"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-06-26.13:36:03::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:03::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:03::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:03::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:03::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:03::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWMssOS::Saving the mss changes C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-26.13:36:03::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-26.13:36:03::SCWMssOS::Commit changes completed.
+TRACE::2023-06-26.13:36:03::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:03::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:03::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:03::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:03::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:03::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:03::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:03::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:03::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:03::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:03::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:03::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:03::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:03::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:03::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:03::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWWriter::formatted JSON is {
+	"platformName":	"system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"system_wrapper",
+	"platHandOff":	"./xsa/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"system_wrapper",
+	"systems":	[{
+			"systemName":	"system_wrapper",
+			"systemDesc":	"system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"system_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"0a6d9c1663aa00ba1bfe78425f875701",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"standalone":	{
+							"stdin":	"axi_uartlite_0",
+							"stdout":	"axi_uartlite_0",
+							"libOptionNames":	["stdin", "stdout"]
+						},
+						"libsContainingOptions":	["standalone"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-06-26.13:36:03::SCWMssOS::Saving the mss changes C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-26.13:36:03::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-26.13:36:03::SCWMssOS::Commit changes completed.
+TRACE::2023-06-26.13:36:03::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:36:03::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:36:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:36:03::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:36:03::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:36:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:36:03::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:36:03::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:36:03::SCWMssOS::Removing the swdes entry for  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:57::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:57::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:57::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Do not have an existing db opened. 
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened new HwDB with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWReader::Active system found as  system_wrapper
+TRACE::2023-06-26.13:37:59::SCWReader::Handling sysconfig system_wrapper
+TRACE::2023-06-26.13:37:59::SCWDomain::checking for install qemu data   : 
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:37:59::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-06-26.13:37:59::SCWMssOS::No sw design opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::mss exists loading the mss file  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::Opened the sw design from mss  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::Adding the swdes entry C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2023-06-26.13:37:59::SCWMssOS::updating the scw layer about changes
+TRACE::2023-06-26.13:37:59::SCWMssOS::Opened the sw design.  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:37:59::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:37:59::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:37:59::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:37:59::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::Saving the mss changes C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-26.13:37:59::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-26.13:37:59::SCWMssOS::Commit changes completed.
+TRACE::2023-06-26.13:37:59::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2023-06-26.13:37:59::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:37:59::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWReader::No isolation master present  
+LOG::2023-06-26.13:37:59::SCWPlatform::Started generating the artifacts platform system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-06-26.13:37:59::SCWPlatform::Started generating the artifacts for system configuration system_wrapper
+LOG::2023-06-26.13:37:59::SCWSystem::Checking the domain standalone_domain
+LOG::2023-06-26.13:37:59::SCWSystem::Not a boot domain 
+LOG::2023-06-26.13:37:59::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2023-06-26.13:37:59::SCWDomain::Generating domain artifcats
+TRACE::2023-06-26.13:37:59::SCWMssOS::Generating standalone artifcats
+TRACE::2023-06-26.13:37:59::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:37:59::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:37:59::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:37:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:37:59::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::Completed writing the mss file at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp
+TRACE::2023-06-26.13:37:59::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:37:59::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-06-26.13:37:59::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-06-26.13:37:59::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2023-06-26.13:37:59::SCWMssOS::doing bsp build ... 
+TRACE::2023-06-26.13:37:59::SCWMssOS::System Command Ran  C: & cd  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp & make 
+TRACE::2023-06-26.13:37:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_4/src"
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2023-06-26.13:37:59::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2023-06-26.13:37:59::SCWMssOS::-Wextra"
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_11/src"
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_11/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2023-06-26.13:37:59::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2023-06-26.13:37:59::SCWMssOS::-Wextra"
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_6/src"
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2023-06-26.13:37:59::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2023-06-26.13:37:59::SCWMssOS::-Wextra"
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_2/src"
+
+TRACE::2023-06-26.13:37:59::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2023-06-26.13:37:59::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2023-06-26.13:37:59::SCWMssOS::-Wall -Wextra"
+
+TRACE::2023-06-26.13:38:00::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_4/src"
+
+TRACE::2023-06-26.13:38:00::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2023-06-26.13:38:00::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2023-06-26.13:38:00::SCWMssOS::all -Wextra"
+
+TRACE::2023-06-26.13:38:00::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_4/src"
+
+TRACE::2023-06-26.13:38:00::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2023-06-26.13:38:00::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2023-06-26.13:38:00::SCWMssOS::xtra"
+
+TRACE::2023-06-26.13:38:00::SCWMssOS::"Compiling bram"
+
+TRACE::2023-06-26.13:38:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_11/src"
+
+TRACE::2023-06-26.13:38:01::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_11/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2023-06-26.13:38:01::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2023-06-26.13:38:01::SCWMssOS::xtra"
+
+TRACE::2023-06-26.13:38:01::SCWMssOS::"Compiling cpu"
+
+TRACE::2023-06-26.13:38:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_6/src"
+
+TRACE::2023-06-26.13:38:01::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2023-06-26.13:38:01::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2023-06-26.13:38:01::SCWMssOS::xtra"
+
+TRACE::2023-06-26.13:38:01::SCWMssOS::"Compiling gpio"
+
+TRACE::2023-06-26.13:38:02::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_2/src"
+
+TRACE::2023-06-26.13:38:02::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2023-06-26.13:38:02::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2023-06-26.13:38:02::SCWMssOS::ll -Wextra"
+
+TRACE::2023-06-26.13:38:02::SCWMssOS::"Compiling standalone";
+
+TRACE::2023-06-26.13:38:04::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_4/src"
+
+TRACE::2023-06-26.13:38:04::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2023-06-26.13:38:04::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2023-06-26.13:38:04::SCWMssOS:: -Wextra"
+
+TRACE::2023-06-26.13:38:04::SCWMssOS::"Compiling uartlite"
+
+TRACE::2023-06-26.13:38:05::SCWMssOS::'Finished building libraries'
+
+TRACE::2023-06-26.13:38:05::SCWMssOS::Copying to export directory.
+TRACE::2023-06-26.13:38:05::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2023-06-26.13:38:05::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2023-06-26.13:38:05::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2023-06-26.13:38:05::SCWSystem::Completed Processing the sysconfig system_wrapper
+LOG::2023-06-26.13:38:05::SCWPlatform::Completed generating the artifacts for system configuration system_wrapper
+TRACE::2023-06-26.13:38:05::SCWPlatform::Started preparing the platform 
+TRACE::2023-06-26.13:38:05::SCWSystem::Writing the bif file for system config system_wrapper
+TRACE::2023-06-26.13:38:05::SCWSystem::dir created 
+TRACE::2023-06-26.13:38:05::SCWSystem::Writing the bif 
+TRACE::2023-06-26.13:38:05::SCWPlatform::Started writing the spfm file 
+TRACE::2023-06-26.13:38:05::SCWPlatform::Started writing the xpfm file 
+TRACE::2023-06-26.13:38:05::SCWPlatform::Completed generating the platform
+TRACE::2023-06-26.13:38:05::SCWMssOS::Saving the mss changes C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:38:05::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-06-26.13:38:05::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-06-26.13:38:05::SCWMssOS::Commit changes completed.
+TRACE::2023-06-26.13:38:05::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:38:05::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:38:05::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:38:05::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:38:05::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:38:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:38:05::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:38:05::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:38:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:38:05::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:38:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:38:05::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:38:05::SCWWriter::formatted JSON is {
+	"platformName":	"system_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"system_wrapper",
+	"platHandOff":	"./xsa/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"system_wrapper",
+	"systems":	[{
+			"systemName":	"system_wrapper",
+			"systemDesc":	"system_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"system_wrapper",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"0a6d9c1663aa00ba1bfe78425f875701",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"standalone":	{
+							"stdin":	"axi_uartlite_0",
+							"stdout":	"axi_uartlite_0",
+							"libOptionNames":	["stdin", "stdout"]
+						},
+						"libsContainingOptions":	["standalone"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2023-06-26.13:38:05::SCWPlatform::updated the xpfm file.
+TRACE::2023-06-26.13:38:05::SCWPlatform::Trying to open the hw design at C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:38:05::SCWPlatform::DSA given C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:38:05::SCWPlatform::DSA absoulate path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:38:05::SCWPlatform::DSA directory C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw
+TRACE::2023-06-26.13:38:05::SCWPlatform:: Platform Path C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/hw/system_wrapper.xsa
+TRACE::2023-06-26.13:38:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-06-26.13:38:05::SCWPlatform::Trying to set the existing hwdb with name system_wrapper
+TRACE::2023-06-26.13:38:05::SCWPlatform::Opened existing hwdb system_wrapper
+TRACE::2023-06-26.13:38:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-06-26.13:38:05::SCWMssOS::Checking the sw design at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2023-06-26.13:38:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2023-06-26.13:38:05::SCWMssOS::Sw design exists and opened at  C:/Users/txzing/Desktop/test/Lattice_A7/A7/vitis/sdk_workspace/system_wrapper/microblaze_0/standalone_domain/bsp/system.mss
