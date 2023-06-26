@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a35tfgg484-2" LaunchTime="1687334774">
+  <File Type="PA-TCL" Name="sd_bmp_hdmi.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="sd_bmp_hdmi_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="sd_bmp_hdmi_reports.tcl"/>
+  <File Type="RDS-RDS" Name="sd_bmp_hdmi.vds"/>
+  <File Type="RDS-UTIL" Name="sd_bmp_hdmi_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="sd_bmp_hdmi_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="sd_bmp_hdmi.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="sd_bmp_hdmi_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="sd_bmp_hdmi_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/ip/mig_7series_0/mig_7series_0.xci">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_rgb565_lcd/ov5640_rgb565_lcd.srcs/sources_1/ip/mig_7series_0/mig_7series_0.xci"/>
+        <Attr Name="ImportTime" Val="1584344083"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/asyn_rst_syn.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_hdmi_2/ov5640_hdmi_2.srcs/sources_1/new/asyn_rst_syn.v"/>
+        <Attr Name="ImportTime" Val="1570671984"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ddr3_fifo_ctrl.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_rgb565_lcd/ov5640_rgb565_lcd.srcs/sources_1/new/ddr3_fifo_ctrl.v"/>
+        <Attr Name="ImportTime" Val="1586398255"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ddr3_rw.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_rgb565_lcd/ov5640_rgb565_lcd.srcs/sources_1/new/ddr3_rw.v"/>
+        <Attr Name="ImportTime" Val="1586673334"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ddr3_top.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_rgb565_lcd/ov5640_rgb565_lcd.srcs/sources_1/new/ddr3_top.v"/>
+        <Attr Name="ImportTime" Val="1586673356"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/dvi_encoder.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_hdmi_2/ov5640_hdmi_2.srcs/sources_1/new/dvi_encoder.v"/>
+        <Attr Name="ImportTime" Val="1561946702"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/dvi_transmitter_top.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_hdmi_2/ov5640_hdmi_2.srcs/sources_1/new/dvi_transmitter_top.v"/>
+        <Attr Name="ImportTime" Val="1570671943"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/hdmi_top.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_hdmi_2/ov5640_hdmi_2.srcs/sources_1/new/hdmi_top.v"/>
+        <Attr Name="ImportTime" Val="1590743467"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/reset_module.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sd_ctrl_top/sd_ctrl_top.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sd_ctrl_top/sd_init.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sd_ctrl_top/sd_read.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sd_read_photo.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sd_ctrl_top/sd_write.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/serializer_10_to_1.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_hdmi_2/ov5640_hdmi_2.srcs/sources_1/new/serializer_10_to_1.v"/>
+        <Attr Name="ImportTime" Val="1570672029"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/video_driver.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_hdmi_2/ov5640_hdmi_2.srcs/sources_1/new/video_driver.v"/>
+        <Attr Name="ImportTime" Val="1590743560"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sd_bmp_hdmi.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/ip/mig_7series_0/mig_a.prj">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="ScopedToCell" Val="mig_7series_0"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/ip/mig_7series_0/mig_b.prj">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="ScopedToCell" Val="mig_7series_0"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="sd_bmp_hdmi"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/pin.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../ov5640_rgb565_lcd/ov5640_rgb565_lcd.srcs/constrs_1/new/pin.xdc"/>
+        <Attr Name="ImportTime" Val="1586307257"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/pin.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="rd_fifo"/>
+  <BlockFileSet Type="BlockSrcs" Name="wr_fifo"/>
+  <BlockFileSet Type="BlockSrcs" Name="clk_wiz_0"/>
+</GenRun>

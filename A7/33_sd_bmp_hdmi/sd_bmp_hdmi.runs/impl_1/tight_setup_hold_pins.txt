@@ -1,0 +1,12 @@
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       Launch Clock       |      Capture Clock       |                                                 Pin                                                      |
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       clk_out4_clk_wiz_0 |                clk_pll_i |                                                              u_ddr3_top/u_ddr3_fifo_ctrl/rd_load_d0_reg/D|
+|       clk_out4_clk_wiz_0 |                clk_pll_i |                                                                     u_ddr3_top/u_ddr3_rw/rd_load_d0_reg/D|
+|       clk_out2_clk_wiz_0 |       clk_out3_clk_wiz_0 |                                               u_ila_0/inst/ila_core_inst/shifted_data_in_reg[7][0]_srl8/D|
+|                sys_clk_p |       clk_out3_clk_wiz_0 |                                               u_ila_0/inst/ila_core_inst/shifted_data_in_reg[7][4]_srl8/D|
+|       clk_out2_clk_wiz_0 |       clk_out3_clk_wiz_0 |u_ila_0/inst/ila_core_inst/u_trig/U_TM/N_DDR_MODE.G_NMU[0].U_M/allx_typeA_match_detection.ltlib_v1_0_0_allx_typeA_inst/probeDelay1_reg[0]/D|
+|                sys_clk_p |       clk_out3_clk_wiz_0 |u_ila_0/inst/ila_core_inst/u_trig/U_TM/N_DDR_MODE.G_NMU[4].U_M/allx_typeA_match_detection.ltlib_v1_0_0_allx_typeA_inst/probeDelay1_reg[0]/D|
+|       clk_out4_clk_wiz_0 |       clk_out3_clk_wiz_0 |                                               u_ila_0/inst/ila_core_inst/shifted_data_in_reg[7][2]_srl8/D|
+|       clk_out4_clk_wiz_0 |       clk_out3_clk_wiz_0 |u_ila_0/inst/ila_core_inst/u_trig/U_TM/N_DDR_MODE.G_NMU[2].U_M/allx_typeA_match_detection.ltlib_v1_0_0_allx_typeA_inst/probeDelay1_reg[0]/D|
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
