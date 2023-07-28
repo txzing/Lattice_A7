@@ -1,7 +1,7 @@
 Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2020.1 (win64) Build 2902540 Wed May 27 19:54:49 MDT 2020
-| Date             : Wed Jun 21 16:12:38 2023
+| Date             : Thu Jul 27 10:16:43 2023
 | Host             : TX running 64-bit major release  (build 9200)
 | Command          : report_power -file sd_bmp_hdmi_power_routed.rpt -pb sd_bmp_hdmi_power_summary_routed.pb -rpx sd_bmp_hdmi_power_routed.rpx
 | Design           : sd_bmp_hdmi
@@ -30,10 +30,10 @@ Table of Contents
 ----------
 
 +--------------------------+--------------+
-| Total On-Chip Power (W)  | 1.417        |
+| Total On-Chip Power (W)  | 1.419        |
 | Design Power Budget (W)  | Unspecified* |
 | Power Budget Margin (W)  | NA           |
-| Dynamic (W)              | 1.342        |
+| Dynamic (W)              | 1.344        |
 | Device Static (W)        | 0.075        |
 | Effective TJA (C/W)      | 2.8          |
 | Max Ambient (C)          | 81.0         |
@@ -52,7 +52,7 @@ Table of Contents
 +--------------------------+-----------+----------+-----------+-----------------+
 | On-Chip                  | Power (W) | Used     | Available | Utilization (%) |
 +--------------------------+-----------+----------+-----------+-----------------+
-| Clocks                   |     0.064 |       38 |       --- |             --- |
+| Clocks                   |     0.066 |       38 |       --- |             --- |
 | Slice Logic              |     0.010 |    20456 |       --- |             --- |
 |   LUT as Logic           |     0.009 |     6812 |     20800 |           32.75 |
 |   Register               |    <0.001 |     8919 |     41600 |           21.44 |
@@ -62,7 +62,7 @@ Table of Contents
 |   F7/F8 Muxes            |    <0.001 |       71 |     32600 |            0.22 |
 |   BUFG                   |    <0.001 |        1 |        32 |            3.13 |
 |   Others                 |     0.000 |      478 |       --- |             --- |
-| Signals                  |     0.015 |    16560 |       --- |             --- |
+| Signals                  |     0.015 |    16573 |       --- |             --- |
 | Block RAM                |     0.010 |      8.5 |        50 |           17.00 |
 | MMCM                     |     0.241 |        2 |         5 |           40.00 |
 | PLL                      |     0.092 |        1 |         5 |           20.00 |
@@ -70,7 +70,7 @@ Table of Contents
 | PHASER                   |     0.250 |       26 |       --- |             --- |
 | XADC                     |     0.004 |        1 |       --- |             --- |
 | Static Power             |     0.075 |          |           |                 |
-| Total                    |     1.417 |          |           |                 |
+| Total                    |     1.419 |          |           |                 |
 +--------------------------+-----------+----------+-----------+-----------------+
 
 
@@ -80,7 +80,7 @@ Table of Contents
 +-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
 | Source    | Voltage (V) | Total (A) | Dynamic (A) | Static (A) | Powerup (A) | Budget (A)  | Margin (A) |
 +-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
-| Vccint    |       1.000 |     0.185 |       0.173 |      0.011 |       NA    | Unspecified | NA         |
+| Vccint    |       1.000 |     0.186 |       0.175 |      0.011 |       NA    | Unspecified | NA         |
 | Vccaux    |       1.800 |     0.404 |       0.391 |      0.013 |       NA    | Unspecified | NA         |
 | Vcco33    |       3.300 |     0.042 |       0.041 |      0.001 |       NA    | Unspecified | NA         |
 | Vcco25    |       2.500 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
@@ -184,7 +184,7 @@ Table of Contents
 +---------------------------+-----------+
 | Name                      | Power (W) |
 +---------------------------+-----------+
-| sd_bmp_hdmi               |     1.342 |
+| sd_bmp_hdmi               |     1.344 |
 |   dbg_hub                 |     0.007 |
 |     inst                  |     0.007 |
 |       BSCANID.u_xsdbm_id  |     0.007 |
@@ -200,9 +200,9 @@ Table of Contents
 |       u_mig_7series_0_mig |     1.006 |
 |   u_hdmi_top              |     0.133 |
 |     u_rgb2dvi_0           |     0.133 |
-|   u_ila_0                 |     0.024 |
-|     inst                  |     0.024 |
-|       ila_core_inst       |     0.024 |
+|   u_ila_0                 |     0.025 |
+|     inst                  |     0.025 |
+|       ila_core_inst       |     0.025 |
 |   u_sd_ctrl_top           |     0.002 |
 |     u_sd_init             |     0.002 |
 +---------------------------+-----------+

@@ -2,13 +2,45 @@
 # Vivado v2020.1 (64-bit)
 # SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
 # IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
-# Start of session at: Sun Jun 25 17:56:00 2023
-# Process ID: 16088
-# Current directory: C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14340 C:\Users\txzing\Desktop\1_FPGA_Design\1_Verilog_35T\33_sd_bmp_hdmi\sd_bmp_hdmi.xpr
-# Log file: C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/vivado.log
-# Journal file: C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi\vivado.jou
+# Start of session at: Thu Jul 27 10:04:02 2023
+# Process ID: 23236
+# Current directory: C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15308 C:\Users\txzing\Desktop\test\Lattice_A7\A7\33_sd_bmp_hdmi\sd_bmp_hdmi.xpr
+# Log file: C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/vivado.log
+# Journal file: C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi\vivado.jou
 #-----------------------------------------------------------
 start_gui
-open_project C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.xpr
+open_project C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.xpr
 update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+wait_on_run impl_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.bit} [get_hw_devices xc7a35t_0]
+set_property PROBES.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.ltx} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.ltx} [get_hw_devices xc7a35t_0]
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.ltx} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.ltx} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.ltx} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.ltx} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.ltx} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.ltx} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+display_hw_ila_data [ get_hw_ila_data hw_ila_data_1 -of_objects [get_hw_ilas -of_objects [get_hw_devices xc7a35t_0] -filter {CELL_NAME=~"u_ila_0"}]]
+run_hw_ila [get_hw_ilas -of_objects [get_hw_devices xc7a35t_0] -filter {CELL_NAME=~"u_ila_0"}] -trigger_now
+wait_on_hw_ila [get_hw_ilas -of_objects [get_hw_devices xc7a35t_0] -filter {CELL_NAME=~"u_ila_0"}]
+display_hw_ila_data [upload_hw_ila_data [get_hw_ilas -of_objects [get_hw_devices xc7a35t_0] -filter {CELL_NAME=~"u_ila_0"}]]
+save_wave_config {C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wcfg}
+close_hw_manager

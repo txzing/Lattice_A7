@@ -17,7 +17,7 @@ proc create_report { reportName command } {
   }
 }
 namespace eval ::optrace {
-  variable script "C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.tcl"
+  variable script "C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.tcl"
   variable category "vivado_impl"
 }
 
@@ -121,16 +121,34 @@ start_step init_design
 set ACTIVE_STEP init_design
 set rc [catch {
   create_msg_db init_design.pb
-  set_param tcl.collectionResultDisplayLimit 0
   set_param chipscope.maxJobs 4
-  set_param xicom.use_bs_reader 1
-  reset_param project.defaultXPMLibraries 
-  open_checkpoint C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/impl_1/sd_bmp_hdmi.dcp
-  set_property webtalk.parent_dir C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.cache/wt [current_project]
-  set_property parent.project_path C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.xpr [current_project]
+OPTRACE "create in-memory project" START { }
+  create_project -in_memory -part xc7a35tfgg484-2
+  set_property design_mode GateLvl [current_fileset]
+  set_param project.singleFileAddWarning.threshold 0
+OPTRACE "create in-memory project" END { }
+OPTRACE "set parameters" START { }
+  set_property webtalk.parent_dir C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.cache/wt [current_project]
+  set_property parent.project_path C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.xpr [current_project]
   set_property ip_output_repo D:/BaiduNetdiskDownload/Pro_FPGA/4_SourceCode/1_Verilog/1_Verilog_35T/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.cache/ip [current_project]
   set_property ip_cache_permissions {read write} [current_project]
   set_property XPM_LIBRARIES {XPM_CDC XPM_MEMORY} [current_project]
+OPTRACE "set parameters" END { }
+OPTRACE "add files" START { }
+  add_files -quiet C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/synth_1/sd_bmp_hdmi.dcp
+  read_ip -quiet C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0.xci
+  read_ip -quiet C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/rd_fifo/rd_fifo.xci
+  read_ip -quiet C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/wr_fifo/wr_fifo.xci
+  read_ip -quiet C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0.xci
+OPTRACE "read constraints: implementation" START { }
+  read_xdc C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/constrs_1/new/pin.xdc
+OPTRACE "read constraints: implementation" END { }
+OPTRACE "add files" END { }
+OPTRACE "link_design" START { }
+  link_design -top sd_bmp_hdmi -part xc7a35tfgg484-2
+OPTRACE "link_design" END { }
+OPTRACE "gray box cells" START { }
+OPTRACE "gray box cells" END { }
 OPTRACE "init_design_reports" START { REPORT }
 OPTRACE "init_design_reports" END { }
 OPTRACE "init_design_write_hwdef" START { }

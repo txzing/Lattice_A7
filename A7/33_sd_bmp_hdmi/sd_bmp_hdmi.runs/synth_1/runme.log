@@ -17,27 +17,27 @@ INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a35t
 INFO: [Device 21-403] Loading part xc7a35tfgg484-2
 INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
 INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
-INFO: [Synth 8-7075] Helper process launched with PID 272
-WARNING: [Synth 8-2611] redeclaration of ansi port pic_data is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_fifo_ctrl.v:52]
-WARNING: [Synth 8-2611] redeclaration of ansi port app_addr is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_rw.v:59]
-WARNING: [Synth 8-2611] redeclaration of ansi port init_calib_complete is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_top.v:92]
-WARNING: [Synth 8-2611] redeclaration of ansi port pixel_clk is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:44]
-WARNING: [Synth 8-2611] redeclaration of ansi port pixel_clk_5x is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:45]
-WARNING: [Synth 8-2611] redeclaration of ansi port tmds_data_p is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:47]
-WARNING: [Synth 8-2611] redeclaration of ansi port tmds_data_n is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:48]
-WARNING: [Synth 8-2611] redeclaration of ansi port pixel_xpos is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:49]
-WARNING: [Synth 8-2611] redeclaration of ansi port pixel_ypos is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:50]
-WARNING: [Synth 8-2611] redeclaration of ansi port h_disp is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:51]
-WARNING: [Synth 8-2611] redeclaration of ansi port v_disp is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:52]
-WARNING: [Synth 8-2611] redeclaration of ansi port video_vs is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:54]
-WARNING: [Synth 8-2507] parameter declaration becomes local in reset_module with formal parameter declaration list [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:39]
-WARNING: [Synth 8-2611] redeclaration of ansi port data_req is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/video_driver.v:63]
-WARNING: [Synth 8-2611] redeclaration of ansi port h_disp is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/video_driver.v:64]
-WARNING: [Synth 8-2611] redeclaration of ansi port v_disp is not allowed [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/video_driver.v:65]
+INFO: [Synth 8-7075] Helper process launched with PID 7920
+WARNING: [Synth 8-2611] redeclaration of ansi port pic_data is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_fifo_ctrl.v:52]
+WARNING: [Synth 8-2611] redeclaration of ansi port app_addr is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_rw.v:59]
+WARNING: [Synth 8-2611] redeclaration of ansi port init_calib_complete is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_top.v:92]
+WARNING: [Synth 8-2611] redeclaration of ansi port pixel_clk is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:44]
+WARNING: [Synth 8-2611] redeclaration of ansi port pixel_clk_5x is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:45]
+WARNING: [Synth 8-2611] redeclaration of ansi port tmds_data_p is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:47]
+WARNING: [Synth 8-2611] redeclaration of ansi port tmds_data_n is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:48]
+WARNING: [Synth 8-2611] redeclaration of ansi port pixel_xpos is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:49]
+WARNING: [Synth 8-2611] redeclaration of ansi port pixel_ypos is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:50]
+WARNING: [Synth 8-2611] redeclaration of ansi port h_disp is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:51]
+WARNING: [Synth 8-2611] redeclaration of ansi port v_disp is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:52]
+WARNING: [Synth 8-2611] redeclaration of ansi port video_vs is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:54]
+WARNING: [Synth 8-2507] parameter declaration becomes local in reset_module with formal parameter declaration list [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:39]
+WARNING: [Synth 8-2611] redeclaration of ansi port data_req is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/video_driver.v:63]
+WARNING: [Synth 8-2611] redeclaration of ansi port h_disp is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/video_driver.v:64]
+WARNING: [Synth 8-2611] redeclaration of ansi port v_disp is not allowed [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/video_driver.v:65]
 ---------------------------------------------------------------------------------
-Starting RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:03 . Memory (MB): peak = 1112.742 ; gain = 0.000
+Starting RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:05 . Memory (MB): peak = 1113.602 ; gain = 0.000
 ---------------------------------------------------------------------------------
-INFO: [Synth 8-6157] synthesizing module 'sd_bmp_hdmi' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:24]
+INFO: [Synth 8-6157] synthesizing module 'sd_bmp_hdmi' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:24]
 	Parameter DDR_MAX_ADDR bound to: 786432 - type: integer 
 	Parameter SD_SEC_NUM bound to: 4609 - type: integer 
 INFO: [Synth 8-6157] synthesizing module 'IBUFDS' [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:32992]
@@ -49,19 +49,19 @@ INFO: [Synth 8-6157] synthesizing module 'IBUFDS' [D:/Vivado/Vivado/2020.1/scrip
 	Parameter IFD_DELAY_VALUE bound to: AUTO - type: string 
 	Parameter IOSTANDARD bound to: DEFAULT - type: string 
 INFO: [Synth 8-6155] done synthesizing module 'IBUFDS' (1#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:32992]
-INFO: [Synth 8-6157] synthesizing module 'reset_module' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:27]
+INFO: [Synth 8-6157] synthesizing module 'reset_module' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:27]
 	Parameter SYS_CYCLE bound to: 5 - type: integer 
 	Parameter MS_WAIT_TIME bound to: 1000000 - type: integer 
 	Parameter RST_MS_MAX bound to: 20 - type: integer 
 	Parameter MS_CNT_MAX bound to: 199999 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'reset_module' (2#1) [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:27]
-INFO: [Synth 8-6157] synthesizing module 'sd_read_photo' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_read_photo.v:22]
-	Parameter PHOTO_SECTION_ADDR0 bound to: 10432 - type: integer 
-	Parameter PHOTO_SECTION_ADDR1 bound to: 15104 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'reset_module' (2#1) [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:27]
+INFO: [Synth 8-6157] synthesizing module 'sd_read_photo' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_read_photo.v:22]
+	Parameter PHOTO_SECTION_ADDR0 bound to: 37152 - type: integer 
+	Parameter PHOTO_SECTION_ADDR1 bound to: 46400 - type: integer 
 	Parameter BMP_HEAD_NUM bound to: 6'b110110 
-INFO: [Synth 8-6155] done synthesizing module 'sd_read_photo' (3#1) [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_read_photo.v:22]
-INFO: [Synth 8-6157] synthesizing module 'sd_ctrl_top' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_ctrl_top.v:24]
-INFO: [Synth 8-6157] synthesizing module 'sd_init' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_init.v:23]
+INFO: [Synth 8-6155] done synthesizing module 'sd_read_photo' (3#1) [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_read_photo.v:22]
+INFO: [Synth 8-6157] synthesizing module 'sd_ctrl_top' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_ctrl_top.v:24]
+INFO: [Synth 8-6157] synthesizing module 'sd_init' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_init.v:23]
 	Parameter CMD0 bound to: 48'b010000000000000000000000000000000000000010010101 
 	Parameter CMD8 bound to: 48'b010010000000000000000000000000011010101010000111 
 	Parameter CMD55 bound to: 48'b011101110000000000000000000000000000000011111111 
@@ -76,22 +76,22 @@ INFO: [Synth 8-6157] synthesizing module 'sd_init' [C:/Users/txzing/Desktop/1_FP
 	Parameter st_send_cmd55 bound to: 7'b0010000 
 	Parameter st_send_acmd41 bound to: 7'b0100000 
 	Parameter st_init_done bound to: 7'b1000000 
-INFO: [Synth 8-6155] done synthesizing module 'sd_init' (4#1) [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_init.v:23]
-INFO: [Synth 8-6157] synthesizing module 'sd_write' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_write.v:25]
+INFO: [Synth 8-6155] done synthesizing module 'sd_init' (4#1) [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_init.v:23]
+INFO: [Synth 8-6157] synthesizing module 'sd_write' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_write.v:25]
 	Parameter HEAD_BYTE bound to: 8'b11111110 
-INFO: [Synth 8-6155] done synthesizing module 'sd_write' (5#1) [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_write.v:25]
-INFO: [Synth 8-6157] synthesizing module 'sd_read' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_read.v:24]
-INFO: [Synth 8-6155] done synthesizing module 'sd_read' (6#1) [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_read.v:24]
-INFO: [Synth 8-6155] done synthesizing module 'sd_ctrl_top' (7#1) [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_ctrl_top.v:24]
-INFO: [Synth 8-6157] synthesizing module 'ddr3_top' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_top.v:24]
-INFO: [Synth 8-6157] synthesizing module 'ddr3_rw' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_rw.v:24]
+INFO: [Synth 8-6155] done synthesizing module 'sd_write' (5#1) [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_write.v:25]
+INFO: [Synth 8-6157] synthesizing module 'sd_read' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_read.v:24]
+INFO: [Synth 8-6155] done synthesizing module 'sd_read' (6#1) [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_read.v:24]
+INFO: [Synth 8-6155] done synthesizing module 'sd_ctrl_top' (7#1) [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_ctrl_top/sd_ctrl_top.v:24]
+INFO: [Synth 8-6157] synthesizing module 'ddr3_top' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_top.v:24]
+INFO: [Synth 8-6157] synthesizing module 'ddr3_rw' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_rw.v:24]
 	Parameter IDLE bound to: 4'b0001 
 	Parameter DDR3_DONE bound to: 4'b0010 
 	Parameter WRITE bound to: 4'b0100 
 	Parameter READ bound to: 4'b1000 
-INFO: [Synth 8-6155] done synthesizing module 'ddr3_rw' (8#1) [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_rw.v:24]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0.v:70]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_0_mig' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0_mig.v:75]
+INFO: [Synth 8-6155] done synthesizing module 'ddr3_rw' (8#1) [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_rw.v:24]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_0_mig' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/mig_7series_0_mig.v:75]
 	Parameter BANK_WIDTH bound to: 3 - type: integer 
 	Parameter CK_WIDTH bound to: 1 - type: integer 
 	Parameter COL_WIDTH bound to: 10 - type: integer 
@@ -258,7 +258,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_0_mig' [c:/Users/txzing/De
 	Parameter XADC_CLK_PERIOD bound to: 5000 - type: integer 
 	Parameter SKIP_CALIB bound to: FALSE - type: string 
 	Parameter TAPSPERKCLK bound to: 112 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_tempmon' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_tempmon.v:69]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_tempmon' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_tempmon.v:69]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter TEMP_MON_CONTROL bound to: INTERNAL - type: string 
 	Parameter XADC_CLK_PERIOD bound to: 5000 - type: integer 
@@ -301,8 +301,8 @@ INFO: [Synth 8-6157] synthesizing module 'XADC' [D:/Vivado/Vivado/2020.1/scripts
 	Parameter SIM_DEVICE bound to: 7SERIES - type: string 
 	Parameter SIM_MONITOR_FILE bound to: design.txt - type: string 
 INFO: [Synth 8-6155] done synthesizing module 'XADC' (9#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:82207]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_tempmon' (10#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_tempmon.v:69]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_iodelay_ctrl' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_iodelay_ctrl.v:80]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_tempmon' (10#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_tempmon.v:69]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_iodelay_ctrl' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_iodelay_ctrl.v:80]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter IODELAY_GRP0 bound to: MIG_7SERIES_0_IODELAY_MIG0 - type: string 
 	Parameter IODELAY_GRP1 bound to: MIG_7SERIES_0_IODELAY_MIG1 - type: string 
@@ -317,12 +317,12 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_iodelay_ctrl' [c:/Use
 INFO: [Synth 8-6157] synthesizing module 'IDELAYCTRL' [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:35056]
 	Parameter SIM_DEVICE bound to: 7SERIES - type: string 
 INFO: [Synth 8-6155] done synthesizing module 'IDELAYCTRL' (11#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:35056]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_iodelay_ctrl' (12#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_iodelay_ctrl.v:80]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_clk_ibuf' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_clk_ibuf.v:68]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_iodelay_ctrl' (12#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_iodelay_ctrl.v:80]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_clk_ibuf' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_clk_ibuf.v:68]
 	Parameter SYSCLK_TYPE bound to: NO_BUFFER - type: string 
 	Parameter DIFF_TERM_SYSCLK bound to: TRUE - type: string 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_clk_ibuf' (13#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_clk_ibuf.v:68]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_infrastructure' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_infrastructure.v:78]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_clk_ibuf' (13#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_clk_ibuf.v:68]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_infrastructure' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_infrastructure.v:78]
 	Parameter SIMULATION bound to: FALSE - type: string 
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter CLKIN_PERIOD bound to: 5000 - type: integer 
@@ -457,8 +457,8 @@ INFO: [Synth 8-6157] synthesizing module 'PLLE2_ADV' [D:/Vivado/Vivado/2020.1/sc
 INFO: [Synth 8-6155] done synthesizing module 'PLLE2_ADV' (16#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:61519]
 INFO: [Synth 8-6157] synthesizing module 'BUFH' [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:1319]
 INFO: [Synth 8-6155] done synthesizing module 'BUFH' (17#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:1319]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_infrastructure' (18#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_infrastructure.v:78]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_memc_ui_top_std' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_memc_ui_top_std.v:72]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_infrastructure' (18#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/clocking/mig_7series_v4_2_infrastructure.v:78]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_memc_ui_top_std' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_memc_ui_top_std.v:72]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter DDR3_VDD_OP_VOLT bound to: 150 - type: string 
 	Parameter PAYLOAD_WIDTH bound to: 32 - type: integer 
@@ -600,7 +600,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_memc_ui_top_std' [c:/
 	Parameter TAPSPERKCLK bound to: 112 - type: integer 
 	Parameter FPGA_VOLT_TYPE bound to: N - type: string 
 	Parameter IODELAY_GRP bound to: MIG_7SERIES_0_IODELAY_MIG0 - type: string 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_mem_intfc' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_mem_intfc.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_mem_intfc' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ip_top/mig_7series_v4_2_mem_intfc.v:70]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter DDR3_VDD_OP_VOLT bound to: 150 - type: string 
 	Parameter PAYLOAD_WIDTH bound to: 32 - type: integer 
@@ -754,7 +754,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_mem_intfc' [c:/Users/
 	Parameter CLK_PERIOD bound to: 10000 - type: integer 
 	Parameter nCL bound to: 6 - type: integer 
 	Parameter nCWL bound to: 5 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_mc' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v:73]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_mc' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v:73]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
 	Parameter BANK_WIDTH bound to: 3 - type: integer 
@@ -839,7 +839,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_mc' [c:/Users/txzing/
 	Parameter nOP_WAIT bound to: 0 - type: integer 
 	Parameter LOW_IDLE_CNT bound to: 0 - type: integer 
 	Parameter CODE_WIDTH bound to: 32 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_rank_mach' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_mach.v:71]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_rank_mach' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_mach.v:71]
 	Parameter BURST_MODE bound to: 8 - type: string 
 	Parameter CS_WIDTH bound to: 1 - type: integer 
 	Parameter DRAM_TYPE bound to: DDR3 - type: string 
@@ -860,7 +860,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_rank_mach' [c:/Users/
 	Parameter RANKS bound to: 1 - type: integer 
 	Parameter REFRESH_TIMER_DIV bound to: 37 - type: integer 
 	Parameter ZQ_TIMER_DIV bound to: 640000 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_rank_cntrl' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v:79]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_rank_cntrl' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v:79]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter BURST_MODE bound to: 8 - type: string 
 	Parameter DQRD2DQWR_DLY bound to: 4 - type: integer 
@@ -896,9 +896,9 @@ INFO: [Synth 8-6157] synthesizing module 'SRLC32E' [D:/Vivado/Vivado/2020.1/scri
 	Parameter INIT bound to: 32'b00000000000000000000000000000000 
 	Parameter IS_CLK_INVERTED bound to: 1'b0 
 INFO: [Synth 8-6155] done synthesizing module 'SRLC32E' (19#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:78209]
-WARNING: [Synth 8-567] referenced signal 'periodic_rd_generation.periodic_rd_timer_one' should be on the sensitivity list [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v:509]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_rank_cntrl' (20#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v:79]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_rank_common' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v:72]
+WARNING: [Synth 8-567] referenced signal 'periodic_rd_generation.periodic_rd_timer_one' should be on the sensitivity list [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v:509]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_rank_cntrl' (20#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_cntrl.v:79]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_rank_common' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v:72]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter DRAM_TYPE bound to: DDR3 - type: string 
 	Parameter MAINT_PRESCALER_DIV bound to: 20 - type: integer 
@@ -916,20 +916,20 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_rank_common' [c:/User
 	Parameter ZQ_TIMER_WIDTH bound to: 20 - type: integer 
 	Parameter nCKESR_CLKS bound to: 1 - type: integer 
 	Parameter CKESR_TIMER_WIDTH bound to: 1 - type: integer 
-WARNING: [Synth 8-567] referenced signal 'zq_cntrl.zq_tick' should be on the sensitivity list [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v:172]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_round_robin_arb' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
+WARNING: [Synth 8-567] referenced signal 'zq_cntrl.zq_tick' should be on the sensitivity list [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v:172]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_round_robin_arb' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter WIDTH bound to: 3 - type: integer 
 	Parameter ONE bound to: 4 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_round_robin_arb' (21#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_round_robin_arb__parameterized0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_round_robin_arb' (21#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_round_robin_arb__parameterized0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter WIDTH bound to: 1 - type: integer 
 	Parameter ONE bound to: 1 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_round_robin_arb__parameterized0' (21#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_rank_common' (22#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v:72]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_rank_mach' (23#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_mach.v:71]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_mach' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_mach.v:72]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_round_robin_arb__parameterized0' (21#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_rank_common' (22#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_common.v:72]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_rank_mach' (23#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_rank_mach.v:71]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_mach' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_mach.v:72]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter EVEN_CWL_2T_MODE bound to: OFF - type: string 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
@@ -977,7 +977,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_mach' [c:/Users/
 	Parameter nWTP bound to: 15 - type: integer 
 	Parameter nWTP_CLKS bound to: 5 - type: integer 
 	Parameter RAS_TIMER_WIDTH bound to: 2 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
 	Parameter BANK_WIDTH bound to: 3 - type: integer 
@@ -1003,7 +1003,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl' [c:/Users
 	Parameter RAS_TIMER_WIDTH bound to: 2 - type: integer 
 	Parameter ROW_WIDTH bound to: 15 - type: integer 
 	Parameter STARVE_LIMIT bound to: 2 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_compare' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_compare.v:74]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_compare' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_compare.v:74]
 	Parameter BANK_WIDTH bound to: 3 - type: integer 
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter BURST_MODE bound to: 8 - type: string 
@@ -1014,8 +1014,8 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_compare' [c:/Use
 	Parameter RANKS bound to: 1 - type: integer 
 	Parameter ROW_WIDTH bound to: 15 - type: integer 
 	Parameter ONE bound to: 1 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_compare' (24#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_compare.v:74]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_compare' (24#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_compare.v:74]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
 	Parameter BM_CNT_WIDTH bound to: 2 - type: integer 
@@ -1053,8 +1053,8 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state' [c:/Users
 	Parameter RP_TIMER_WIDTH bound to: 1 - type: integer 
 	Parameter STARVE_LIMIT_CNT bound to: 8 - type: integer 
 	Parameter STARVE_LIMIT_WIDTH bound to: 3 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_state' (25#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_state' (25#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter BM_CNT_WIDTH bound to: 2 - type: integer 
 	Parameter nBANK_MACHS bound to: 4 - type: integer 
@@ -1064,9 +1064,9 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue' [c:/Users
 	Parameter ONE bound to: 1 - type: integer 
 	Parameter BM_CNT_ZERO bound to: 2'b00 
 	Parameter BM_CNT_ONE bound to: 2'b01 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_queue' (26#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_cntrl' (27#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_queue' (26#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_cntrl' (27#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
 	Parameter BANK_WIDTH bound to: 3 - type: integer 
@@ -1092,7 +1092,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl__parameter
 	Parameter RAS_TIMER_WIDTH bound to: 2 - type: integer 
 	Parameter ROW_WIDTH bound to: 15 - type: integer 
 	Parameter STARVE_LIMIT bound to: 2 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state__parameterized0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state__parameterized0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
 	Parameter BM_CNT_WIDTH bound to: 2 - type: integer 
@@ -1130,8 +1130,8 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state__parameter
 	Parameter RP_TIMER_WIDTH bound to: 1 - type: integer 
 	Parameter STARVE_LIMIT_CNT bound to: 8 - type: integer 
 	Parameter STARVE_LIMIT_WIDTH bound to: 3 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_state__parameterized0' (27#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue__parameterized0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_state__parameterized0' (27#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue__parameterized0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter BM_CNT_WIDTH bound to: 2 - type: integer 
 	Parameter nBANK_MACHS bound to: 4 - type: integer 
@@ -1141,9 +1141,9 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue__parameter
 	Parameter ONE bound to: 1 - type: integer 
 	Parameter BM_CNT_ZERO bound to: 2'b00 
 	Parameter BM_CNT_ONE bound to: 2'b01 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_queue__parameterized0' (27#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized0' (27#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized1' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_queue__parameterized0' (27#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized0' (27#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized1' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
 	Parameter BANK_WIDTH bound to: 3 - type: integer 
@@ -1169,7 +1169,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl__parameter
 	Parameter RAS_TIMER_WIDTH bound to: 2 - type: integer 
 	Parameter ROW_WIDTH bound to: 15 - type: integer 
 	Parameter STARVE_LIMIT bound to: 2 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state__parameterized1' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state__parameterized1' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
 	Parameter BM_CNT_WIDTH bound to: 2 - type: integer 
@@ -1207,8 +1207,8 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state__parameter
 	Parameter RP_TIMER_WIDTH bound to: 1 - type: integer 
 	Parameter STARVE_LIMIT_CNT bound to: 8 - type: integer 
 	Parameter STARVE_LIMIT_WIDTH bound to: 3 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_state__parameterized1' (27#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue__parameterized1' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_state__parameterized1' (27#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue__parameterized1' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter BM_CNT_WIDTH bound to: 2 - type: integer 
 	Parameter nBANK_MACHS bound to: 4 - type: integer 
@@ -1218,9 +1218,9 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue__parameter
 	Parameter ONE bound to: 1 - type: integer 
 	Parameter BM_CNT_ZERO bound to: 2'b00 
 	Parameter BM_CNT_ONE bound to: 2'b01 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_queue__parameterized1' (27#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized1' (27#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized2' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_queue__parameterized1' (27#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized1' (27#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized2' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
 	Parameter BANK_WIDTH bound to: 3 - type: integer 
@@ -1246,7 +1246,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_cntrl__parameter
 	Parameter RAS_TIMER_WIDTH bound to: 2 - type: integer 
 	Parameter ROW_WIDTH bound to: 15 - type: integer 
 	Parameter STARVE_LIMIT bound to: 2 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state__parameterized2' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state__parameterized2' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
 	Parameter BM_CNT_WIDTH bound to: 2 - type: integer 
@@ -1284,8 +1284,8 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_state__parameter
 	Parameter RP_TIMER_WIDTH bound to: 1 - type: integer 
 	Parameter STARVE_LIMIT_CNT bound to: 8 - type: integer 
 	Parameter STARVE_LIMIT_WIDTH bound to: 3 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_state__parameterized2' (27#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue__parameterized2' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_state__parameterized2' (27#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_state.v:141]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue__parameterized2' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter BM_CNT_WIDTH bound to: 2 - type: integer 
 	Parameter nBANK_MACHS bound to: 4 - type: integer 
@@ -1295,9 +1295,9 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_queue__parameter
 	Parameter ONE bound to: 1 - type: integer 
 	Parameter BM_CNT_ZERO bound to: 2'b00 
 	Parameter BM_CNT_ONE bound to: 2'b01 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_queue__parameterized2' (27#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized2' (27#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_common' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_common.v:73]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_queue__parameterized2' (27#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_queue.v:174]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_cntrl__parameterized2' (27#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_cntrl.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_common' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_common.v:73]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter BM_CNT_WIDTH bound to: 2 - type: integer 
 	Parameter LOW_IDLE_CNT bound to: 0 - type: integer 
@@ -1319,8 +1319,8 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_bank_common' [c:/User
 	Parameter nXSDLL_CLKS bound to: 128 - type: integer 
 	Parameter RFC_ZQ_TIMER_WIDTH bound to: 8 - type: integer 
 	Parameter THREE bound to: 3 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_common' (28#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_common.v:73]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_arb_mux' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_mux.v:69]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_common' (28#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_common.v:73]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_arb_mux' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_mux.v:69]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter EVEN_CWL_2T_MODE bound to: OFF - type: string 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
@@ -1352,7 +1352,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_arb_mux' [c:/Users/tx
 	Parameter RTT_WR bound to: OFF - type: string 
 	Parameter SLOT_0_CONFIG bound to: 8'b00001111 
 	Parameter SLOT_1_CONFIG bound to: 8'b00000000 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_arb_row_col' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_row_col.v:83]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_arb_row_col' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_row_col.v:83]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
 	Parameter CWL bound to: 5 - type: integer 
@@ -1364,13 +1364,13 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_arb_row_col' [c:/User
 	Parameter nWR bound to: 6 - type: integer 
 	Parameter RNK2RNK_DLY bound to: 12 - type: integer 
 	Parameter RNK2RNK_DLY_CLKS bound to: 3 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_round_robin_arb__parameterized1' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_round_robin_arb__parameterized1' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter WIDTH bound to: 4 - type: integer 
 	Parameter ONE bound to: 8 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_round_robin_arb__parameterized1' (28#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_arb_row_col' (29#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_row_col.v:83]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_arb_select' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_select.v:75]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_round_robin_arb__parameterized1' (28#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_round_robin_arb.v:121]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_arb_row_col' (29#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_row_col.v:83]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_arb_select' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_select.v:75]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter EVEN_CWL_2T_MODE bound to: OFF - type: string 
 	Parameter ADDR_CMD_MODE bound to: 1T - type: string 
@@ -1401,12 +1401,12 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_arb_select' [c:/Users
 	Parameter SLOT_1_CONFIG bound to: 8'b00000000 
 	Parameter OUT_CMD_WIDTH bound to: 22 - type: integer 
 	Parameter ONE bound to: 1'b1 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_arb_select' (30#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_select.v:75]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_arb_mux' (31#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_mux.v:69]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_mach' (32#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_mach.v:72]
-WARNING: [Synth 8-7071] port 'idle' of module 'mig_7series_v4_2_bank_mach' is unconnected for instance 'bank_mach0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v:670]
-WARNING: [Synth 8-7023] instance 'bank_mach0' of module 'mig_7series_v4_2_bank_mach' has 74 connections declared, but only 73 given [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v:670]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_col_mach' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_col_mach.v:88]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_arb_select' (30#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_select.v:75]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_arb_mux' (31#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_arb_mux.v:69]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_bank_mach' (32#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_bank_mach.v:72]
+WARNING: [Synth 8-7071] port 'idle' of module 'mig_7series_v4_2_bank_mach' is unconnected for instance 'bank_mach0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v:670]
+WARNING: [Synth 8-7023] instance 'bank_mach0' of module 'mig_7series_v4_2_bank_mach' has 74 connections declared, but only 73 given [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v:670]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_col_mach' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_col_mach.v:88]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter BANK_WIDTH bound to: 3 - type: integer 
 	Parameter BURST_MODE bound to: 8 - type: string 
@@ -1437,9 +1437,9 @@ INFO: [Synth 8-6157] synthesizing module 'RAM32M' [D:/Vivado/Vivado/2020.1/scrip
 	Parameter INIT_D bound to: 64'b0000000000000000000000000000000000000000000000000000000000000000 
 	Parameter IS_WCLK_INVERTED bound to: 1'b0 
 INFO: [Synth 8-6155] done synthesizing module 'RAM32M' (33#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:70128]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_col_mach' (34#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_col_mach.v:88]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_mc' (35#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v:73]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_top' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_top.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_col_mach' (34#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_col_mach.v:88]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_mc' (35#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/controller/mig_7series_v4_2_mc.v:73]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_top' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_top.v:70]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter DDR3_VDD_OP_VOLT bound to: 150 - type: string 
 	Parameter AL bound to: 0 - type: string 
@@ -1565,7 +1565,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_top' [c:/User
 	Parameter CTL_BANK bound to: 3'b001 
 	Parameter CTL_BYTE_LANE bound to: 8'b00111001 
 	Parameter PI_DIV2_INCDEC bound to: FALSE - type: string 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_mc_phy_wrapper' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:71]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_mc_phy_wrapper' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:71]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter tCK bound to: 2500 - type: integer 
 	Parameter BANK_TYPE bound to: HR_IO - type: string 
@@ -1720,9 +1720,9 @@ INFO: [Synth 8-6157] synthesizing module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' [D:/Vi
 	Parameter SIM_DEVICE bound to: 7SERIES - type: string 
 	Parameter USE_IBUFDISABLE bound to: FALSE - type: string 
 INFO: [Synth 8-6155] done synthesizing module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' (39#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:36424]
-WARNING: [Synth 8-7071] port 'IBUFDISABLE' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' is unconnected for instance 'u_iobuf_dqs' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
-WARNING: [Synth 8-7023] instance 'u_iobuf_dqs' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' has 9 connections declared, but only 8 given [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_poc_pd' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_pd.v:70]
+WARNING: [Synth 8-7071] port 'IBUFDISABLE' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' is unconnected for instance 'u_iobuf_dqs' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
+WARNING: [Synth 8-7023] instance 'u_iobuf_dqs' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' has 9 connections declared, but only 8 given [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_poc_pd' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_pd.v:70]
 	Parameter POC_USE_METASTABLE_SAMP bound to: FALSE - type: string 
 	Parameter SIM_CAL_OPTION bound to: NONE - type: string 
 	Parameter TCQ bound to: 100 - type: integer 
@@ -1734,34 +1734,34 @@ INFO: [Synth 8-6157] synthesizing module 'IDDR' [D:/Vivado/Vivado/2020.1/scripts
 	Parameter IS_D_INVERTED bound to: 1'b0 
 	Parameter SRTYPE bound to: SYNC - type: string 
 INFO: [Synth 8-6155] done synthesizing module 'IDDR' (40#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:34934]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_poc_pd' (41#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_pd.v:70]
-WARNING: [Synth 8-7071] port 'IBUFDISABLE' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' is unconnected for instance 'u_iobuf_dqs' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
-WARNING: [Synth 8-7023] instance 'u_iobuf_dqs' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' has 9 connections declared, but only 8 given [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
-WARNING: [Synth 8-7071] port 'IBUFDISABLE' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' is unconnected for instance 'u_iobuf_dqs' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
-WARNING: [Synth 8-7023] instance 'u_iobuf_dqs' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' has 9 connections declared, but only 8 given [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
-WARNING: [Synth 8-7071] port 'IBUFDISABLE' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' is unconnected for instance 'u_iobuf_dqs' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
-WARNING: [Synth 8-7023] instance 'u_iobuf_dqs' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' has 9 connections declared, but only 8 given [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_poc_pd' (41#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_poc_pd.v:70]
+WARNING: [Synth 8-7071] port 'IBUFDISABLE' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' is unconnected for instance 'u_iobuf_dqs' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
+WARNING: [Synth 8-7023] instance 'u_iobuf_dqs' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' has 9 connections declared, but only 8 given [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
+WARNING: [Synth 8-7071] port 'IBUFDISABLE' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' is unconnected for instance 'u_iobuf_dqs' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
+WARNING: [Synth 8-7023] instance 'u_iobuf_dqs' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' has 9 connections declared, but only 8 given [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
+WARNING: [Synth 8-7071] port 'IBUFDISABLE' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' is unconnected for instance 'u_iobuf_dqs' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
+WARNING: [Synth 8-7023] instance 'u_iobuf_dqs' of module 'IOBUFDS_DIFF_OUT_INTERMDISABLE' has 9 connections declared, but only 8 given [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1334]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
 	Parameter TCQ bound to: 25 - type: integer 
 	Parameter DEPTH bound to: 8 - type: integer 
 	Parameter WIDTH bound to: 32 - type: integer 
 	Parameter PTR_BITS bound to: 3 - type: integer 
 	Parameter ALMOST_FULL_VALUE bound to: 3 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo' (42#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
-WARNING: [Synth 8-7071] port 'afull' of module 'mig_7series_v4_2_ddr_of_pre_fifo' is unconnected for instance 'phy_ctl_pre_fifo_0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1428]
-WARNING: [Synth 8-7023] instance 'phy_ctl_pre_fifo_0' of module 'mig_7series_v4_2_ddr_of_pre_fifo' has 8 connections declared, but only 7 given [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1428]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo__parameterized0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo' (42#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
+WARNING: [Synth 8-7071] port 'afull' of module 'mig_7series_v4_2_ddr_of_pre_fifo' is unconnected for instance 'phy_ctl_pre_fifo_0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1428]
+WARNING: [Synth 8-7023] instance 'phy_ctl_pre_fifo_0' of module 'mig_7series_v4_2_ddr_of_pre_fifo' has 8 connections declared, but only 7 given [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1428]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo__parameterized0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
 	Parameter TCQ bound to: 25 - type: integer 
 	Parameter DEPTH bound to: 8 - type: integer 
 	Parameter WIDTH bound to: 6 - type: integer 
 	Parameter PTR_BITS bound to: 3 - type: integer 
 	Parameter ALMOST_FULL_VALUE bound to: 3 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo__parameterized0' (42#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
-WARNING: [Synth 8-7071] port 'afull' of module 'mig_7series_v4_2_ddr_of_pre_fifo' is unconnected for instance 'phy_ctl_pre_fifo_1' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1445]
-WARNING: [Synth 8-7023] instance 'phy_ctl_pre_fifo_1' of module 'mig_7series_v4_2_ddr_of_pre_fifo' has 8 connections declared, but only 7 given [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1445]
-WARNING: [Synth 8-7071] port 'afull' of module 'mig_7series_v4_2_ddr_of_pre_fifo' is unconnected for instance 'phy_ctl_pre_fifo_2' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1462]
-WARNING: [Synth 8-7023] instance 'phy_ctl_pre_fifo_2' of module 'mig_7series_v4_2_ddr_of_pre_fifo' has 8 connections declared, but only 7 given [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1462]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_mc_phy' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo__parameterized0' (42#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
+WARNING: [Synth 8-7071] port 'afull' of module 'mig_7series_v4_2_ddr_of_pre_fifo' is unconnected for instance 'phy_ctl_pre_fifo_1' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1445]
+WARNING: [Synth 8-7023] instance 'phy_ctl_pre_fifo_1' of module 'mig_7series_v4_2_ddr_of_pre_fifo' has 8 connections declared, but only 7 given [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1445]
+WARNING: [Synth 8-7071] port 'afull' of module 'mig_7series_v4_2_ddr_of_pre_fifo' is unconnected for instance 'phy_ctl_pre_fifo_2' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1462]
+WARNING: [Synth 8-7023] instance 'phy_ctl_pre_fifo_2' of module 'mig_7series_v4_2_ddr_of_pre_fifo' has 8 connections declared, but only 7 given [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1462]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_mc_phy' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v:70]
 	Parameter BYTE_LANES_B0 bound to: 4'b1111 
 	Parameter BYTE_LANES_B1 bound to: 4'b1110 
 	Parameter BYTE_LANES_B2 bound to: 4'b0000 
@@ -2065,8 +2065,8 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_mc_phy' [c:/Users
 	Parameter L_PHY_2_C_PI_OUTPUT_CLK_SRC bound to: DELAYED_REF - type: string 
 	Parameter L_PHY_2_D_PI_OUTPUT_CLK_SRC bound to: DELAYED_REF - type: string 
 	Parameter L_RESET_SELECT_BANK bound to: 1 - type: integer 
-INFO: [Synth 8-251] WARNING: : The required delay though the phaser_in to internally match the aux_out clock  to ddr clock exceeds the maximum allowable delay. The clock edge  will occur at the output registers of aux_out 556.7656252f ps before the ddr clock  edge. If aux_out is used for memory inputs, this may violate setup or hold time. [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v:735]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_4lanes' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:72]
+INFO: [Synth 8-251] WARNING: : The required delay though the phaser_in to internally match the aux_out clock  to ddr clock exceeds the maximum allowable delay. The clock edge  will occur at the output registers of aux_out 556.7656252f ps before the ddr clock  edge. If aux_out is used for memory inputs, this may violate setup or hold time. [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v:735]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_4lanes' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:72]
 	Parameter GENERATE_IDELAYCTRL bound to: FALSE - type: string 
 	Parameter IODELAY_GRP bound to: MIG_7SERIES_0_IODELAY_MIG0 - type: string 
 	Parameter FPGA_SPEED_GRADE bound to: 2 - type: integer 
@@ -2248,7 +2248,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_4lanes' [c:/U
 	Parameter MSB_BURST_PEND_PI bound to: 7 - type: integer 
 	Parameter MSB_RANK_SEL_I bound to: 15 - type: integer 
 	Parameter PHASER_CTL_BUS_WIDTH bound to: 16 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
 	Parameter ABCD bound to: A - type: string 
 	Parameter PO_DATA_CTL bound to: TRUE - type: string 
 	Parameter BITLANES bound to: 12'b001011111111 
@@ -2310,20 +2310,20 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane' [c:/Us
 	Parameter PO_DCD_SETTING bound to: 3'b111 
 	Parameter DQS_AUTO_RECAL bound to: 1 - type: integer 
 	Parameter DQS_FIND_PATTERN bound to: 001 - type: string 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_if_post_fifo' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v:68]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_if_post_fifo' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v:68]
 	Parameter TCQ bound to: 25 - type: integer 
 	Parameter DEPTH bound to: 4 - type: integer 
 	Parameter WIDTH bound to: 80 - type: integer 
 	Parameter PTR_BITS bound to: 2 - type: integer 
-INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v:110]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_if_post_fifo' (43#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v:68]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo__parameterized1' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
+INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v:110]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_if_post_fifo' (43#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_if_post_fifo.v:68]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo__parameterized1' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
 	Parameter TCQ bound to: 25 - type: integer 
 	Parameter DEPTH bound to: 9 - type: integer 
 	Parameter WIDTH bound to: 80 - type: integer 
 	Parameter PTR_BITS bound to: 4 - type: integer 
 	Parameter ALMOST_FULL_VALUE bound to: 4 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo__parameterized1' (43#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_of_pre_fifo__parameterized1' (43#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_of_pre_fifo.v:76]
 INFO: [Synth 8-6157] synthesizing module 'PHASER_IN_PHY' [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:61205]
 	Parameter BURST_MODE bound to: TRUE - type: string 
 	Parameter CLKOUT_DIV bound to: 2 - type: integer 
@@ -2371,7 +2371,7 @@ INFO: [Synth 8-6157] synthesizing module 'OUT_FIFO' [D:/Vivado/Vivado/2020.1/scr
 	Parameter OUTPUT_DISABLE bound to: FALSE - type: string 
 	Parameter SYNCHRONOUS_MODE bound to: FALSE - type: string 
 INFO: [Synth 8-6155] done synthesizing module 'OUT_FIFO' (47#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:50506]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
 	Parameter BITLANES bound to: 12'b001011111111 
 	Parameter BITLANES_OUTONLY bound to: 12'b000000000100 
 	Parameter PO_DATA_CTL bound to: TRUE - type: string 
@@ -2521,9 +2521,9 @@ INFO: [Synth 8-6157] synthesizing module 'ODDR' [D:/Vivado/Vivado/2020.1/scripts
 	Parameter IS_D2_INVERTED bound to: 1'b0 
 	Parameter SRTYPE bound to: SYNC - type: string 
 INFO: [Synth 8-6155] done synthesizing module 'ODDR' (51#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:49784]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io' (52#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane' (53#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io' (52#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane' (53#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
 	Parameter ABCD bound to: B - type: string 
 	Parameter PO_DATA_CTL bound to: TRUE - type: string 
 	Parameter BITLANES bound to: 12'b000111111111 
@@ -2585,7 +2585,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parame
 	Parameter PO_DCD_SETTING bound to: 3'b111 
 	Parameter DQS_AUTO_RECAL bound to: 1 - type: integer 
 	Parameter DQS_FIND_PATTERN bound to: 001 - type: string 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
 	Parameter BITLANES bound to: 12'b000111111111 
 	Parameter BITLANES_OUTONLY bound to: 12'b000000010000 
 	Parameter PO_DATA_CTL bound to: TRUE - type: string 
@@ -2633,9 +2633,9 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__pa
 	Parameter OSERDES_DQS_DATA_WIDTH bound to: 4 - type: integer 
 	Parameter ODDR_CLK_EDGE bound to: SAME_EDGE - type: string 
 	Parameter OSERDES_TBYTE_CTL bound to: TRUE - type: string 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized0' (53#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized0' (53#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized1' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized0' (53#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized0' (53#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized1' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
 	Parameter ABCD bound to: C - type: string 
 	Parameter PO_DATA_CTL bound to: TRUE - type: string 
 	Parameter BITLANES bound to: 12'b001111111110 
@@ -2697,7 +2697,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parame
 	Parameter PO_DCD_SETTING bound to: 3'b111 
 	Parameter DQS_AUTO_RECAL bound to: 1 - type: integer 
 	Parameter DQS_FIND_PATTERN bound to: 001 - type: string 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized1' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized1' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
 	Parameter BITLANES bound to: 12'b001111111110 
 	Parameter BITLANES_OUTONLY bound to: 12'b000001000000 
 	Parameter PO_DATA_CTL bound to: TRUE - type: string 
@@ -2745,9 +2745,9 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__pa
 	Parameter OSERDES_DQS_DATA_WIDTH bound to: 4 - type: integer 
 	Parameter ODDR_CLK_EDGE bound to: SAME_EDGE - type: string 
 	Parameter OSERDES_TBYTE_CTL bound to: TRUE - type: string 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized1' (53#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized1' (53#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized2' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized1' (53#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized1' (53#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized2' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
 	Parameter ABCD bound to: D - type: string 
 	Parameter PO_DATA_CTL bound to: TRUE - type: string 
 	Parameter BITLANES bound to: 12'b001111111110 
@@ -2809,7 +2809,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parame
 	Parameter PO_DCD_SETTING bound to: 3'b111 
 	Parameter DQS_AUTO_RECAL bound to: 1 - type: integer 
 	Parameter DQS_FIND_PATTERN bound to: 001 - type: string 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized2' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized2' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
 	Parameter BITLANES bound to: 12'b001111111110 
 	Parameter BITLANES_OUTONLY bound to: 12'b000000010000 
 	Parameter PO_DATA_CTL bound to: TRUE - type: string 
@@ -2857,8 +2857,8 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__pa
 	Parameter OSERDES_DQS_DATA_WIDTH bound to: 4 - type: integer 
 	Parameter ODDR_CLK_EDGE bound to: SAME_EDGE - type: string 
 	Parameter OSERDES_TBYTE_CTL bound to: TRUE - type: string 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized2' (53#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized2' (53#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized2' (53#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized2' (53#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
 INFO: [Synth 8-6157] synthesizing module 'BUFIO' [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:1344]
 INFO: [Synth 8-6155] done synthesizing module 'BUFIO' (54#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:1344]
 INFO: [Synth 8-6157] synthesizing module 'PHY_CONTROL' [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:61433]
@@ -2897,13 +2897,13 @@ INFO: [Synth 8-6157] synthesizing module 'PHY_CONTROL' [D:/Vivado/Vivado/2020.1/
 	Parameter WR_DURATION_2 bound to: 7 - type: integer 
 	Parameter WR_DURATION_3 bound to: 7 - type: integer 
 INFO: [Synth 8-6155] done synthesizing module 'PHY_CONTROL' (55#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:61433]
-INFO: [Synth 8-226] default block is never used [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:1557]
+INFO: [Synth 8-226] default block is never used [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:1557]
 INFO: [Synth 8-6157] synthesizing module 'PHASER_REF' [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:61417]
 	Parameter IS_PWRDWN_INVERTED bound to: 1'b0 
 	Parameter IS_RST_INVERTED bound to: 1'b0 
 INFO: [Synth 8-6155] done synthesizing module 'PHASER_REF' (56#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:61417]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_4lanes' (57#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:72]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_4lanes__parameterized0' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:72]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_4lanes' (57#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:72]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_4lanes__parameterized0' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:72]
 	Parameter GENERATE_IDELAYCTRL bound to: FALSE - type: string 
 	Parameter IODELAY_GRP bound to: MIG_7SERIES_0_IODELAY_MIG0 - type: string 
 	Parameter FPGA_SPEED_GRADE bound to: 2 - type: integer 
@@ -3085,7 +3085,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_4lanes__param
 	Parameter MSB_BURST_PEND_PI bound to: 7 - type: integer 
 	Parameter MSB_RANK_SEL_I bound to: 15 - type: integer 
 	Parameter PHASER_CTL_BUS_WIDTH bound to: 16 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized3' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized3' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
 	Parameter ABCD bound to: B - type: string 
 	Parameter PO_DATA_CTL bound to: FALSE - type: string 
 	Parameter BITLANES bound to: 12'b000011000000 
@@ -3171,7 +3171,7 @@ INFO: [Synth 8-6157] synthesizing module 'OUT_FIFO__parameterized0' [D:/Vivado/V
 	Parameter OUTPUT_DISABLE bound to: FALSE - type: string 
 	Parameter SYNCHRONOUS_MODE bound to: FALSE - type: string 
 INFO: [Synth 8-6155] done synthesizing module 'OUT_FIFO__parameterized0' (57#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:50506]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized3' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized3' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
 	Parameter BITLANES bound to: 12'b000011000000 
 	Parameter BITLANES_OUTONLY bound to: 12'b000000000000 
 	Parameter PO_DATA_CTL bound to: FALSE - type: string 
@@ -3246,9 +3246,9 @@ INFO: [Synth 8-6157] synthesizing module 'OSERDESE2__parameterized1' [D:/Vivado/
 	Parameter TBYTE_SRC bound to: FALSE - type: string 
 	Parameter TRISTATE_WIDTH bound to: 1 - type: integer 
 INFO: [Synth 8-6155] done synthesizing module 'OSERDESE2__parameterized1' (57#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:50391]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized3' (57#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized3' (57#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized4' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized3' (57#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized3' (57#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized4' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
 	Parameter ABCD bound to: C - type: string 
 	Parameter PO_DATA_CTL bound to: FALSE - type: string 
 	Parameter BITLANES bound to: 12'b111111111111 
@@ -3310,7 +3310,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parame
 	Parameter PO_DCD_SETTING bound to: 3'b111 
 	Parameter DQS_AUTO_RECAL bound to: 1 - type: integer 
 	Parameter DQS_FIND_PATTERN bound to: 001 - type: string 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized4' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized4' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
 	Parameter BITLANES bound to: 12'b111111111111 
 	Parameter BITLANES_OUTONLY bound to: 12'b000000000000 
 	Parameter PO_DATA_CTL bound to: FALSE - type: string 
@@ -3358,9 +3358,9 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__pa
 	Parameter OSERDES_DQS_DATA_WIDTH bound to: 4 - type: integer 
 	Parameter ODDR_CLK_EDGE bound to: SAME_EDGE - type: string 
 	Parameter OSERDES_TBYTE_CTL bound to: TRUE - type: string 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized4' (57#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized4' (57#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized5' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized4' (57#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized4' (57#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized5' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
 	Parameter ABCD bound to: D - type: string 
 	Parameter PO_DATA_CTL bound to: FALSE - type: string 
 	Parameter BITLANES bound to: 12'b001111111111 
@@ -3427,7 +3427,7 @@ INFO: [Synth 8-6157] synthesizing module 'OBUFDS' [D:/Vivado/Vivado/2020.1/scrip
 	Parameter IOSTANDARD bound to: DEFAULT - type: string 
 	Parameter SLEW bound to: SLOW - type: string 
 INFO: [Synth 8-6155] done synthesizing module 'OBUFDS' (58#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:46328]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized5' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized5' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
 	Parameter BITLANES bound to: 12'b001111111111 
 	Parameter BITLANES_OUTONLY bound to: 12'b000000000000 
 	Parameter PO_DATA_CTL bound to: FALSE - type: string 
@@ -3475,8 +3475,8 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__pa
 	Parameter OSERDES_DQS_DATA_WIDTH bound to: 4 - type: integer 
 	Parameter ODDR_CLK_EDGE bound to: SAME_EDGE - type: string 
 	Parameter OSERDES_TBYTE_CTL bound to: TRUE - type: string 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized5' (58#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized5' (58#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_group_io__parameterized5' (58#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_group_io.v:69]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_byte_lane__parameterized5' (58#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_byte_lane.v:70]
 INFO: [Synth 8-6157] synthesizing module 'PHY_CONTROL__parameterized0' [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:61433]
 	Parameter AO_TOGGLE bound to: 1 - type: integer 
 	Parameter AO_WRLVL_EN bound to: 0 - type: integer 
@@ -3513,15 +3513,15 @@ INFO: [Synth 8-6157] synthesizing module 'PHY_CONTROL__parameterized0' [D:/Vivad
 	Parameter WR_DURATION_2 bound to: 7 - type: integer 
 	Parameter WR_DURATION_3 bound to: 7 - type: integer 
 INFO: [Synth 8-6155] done synthesizing module 'PHY_CONTROL__parameterized0' (58#1) [D:/Vivado/Vivado/2020.1/scripts/rt/data/unisim_comp.v:61433]
-INFO: [Synth 8-226] default block is never used [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:1557]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_4lanes__parameterized0' (58#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:72]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_mc_phy' (59#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v:70]
-WARNING: [Synth 8-689] width (12) of port connection 'pi_dqs_found_lanes' does not match port width (8) of module 'mig_7series_v4_2_ddr_mc_phy' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1671]
-WARNING: [Synth 8-689] width (12) of port connection 'pi_phase_locked_lanes' does not match port width (8) of module 'mig_7series_v4_2_ddr_mc_phy' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1679]
-WARNING: [Synth 8-7071] port 'of_data_a_full' of module 'mig_7series_v4_2_ddr_mc_phy' is unconnected for instance 'u_ddr_mc_phy' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1579]
-WARNING: [Synth 8-7023] instance 'u_ddr_mc_phy' of module 'mig_7series_v4_2_ddr_mc_phy' has 89 connections declared, but only 88 given [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1579]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_mc_phy_wrapper' (60#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:71]
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_calib_top' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v:82]
+INFO: [Synth 8-226] default block is never used [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:1557]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_4lanes__parameterized0' (58#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_4lanes.v:72]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_mc_phy' (59#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy.v:70]
+WARNING: [Synth 8-689] width (12) of port connection 'pi_dqs_found_lanes' does not match port width (8) of module 'mig_7series_v4_2_ddr_mc_phy' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1671]
+WARNING: [Synth 8-689] width (12) of port connection 'pi_phase_locked_lanes' does not match port width (8) of module 'mig_7series_v4_2_ddr_mc_phy' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1679]
+WARNING: [Synth 8-7071] port 'of_data_a_full' of module 'mig_7series_v4_2_ddr_mc_phy' is unconnected for instance 'u_ddr_mc_phy' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1579]
+WARNING: [Synth 8-7023] instance 'u_ddr_mc_phy' of module 'mig_7series_v4_2_ddr_mc_phy' has 89 connections declared, but only 88 given [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:1579]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_mc_phy_wrapper' (60#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_mc_phy_wrapper.v:71]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_calib_top' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v:82]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter nCK_PER_CLK bound to: 4 - type: integer 
 	Parameter tCK bound to: 2500 - type: integer 
@@ -3605,7 +3605,7 @@ INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_calib_top' [c:/Us
 	Parameter BYPASS_COMPLEX_OCAL bound to: TRUE - type: string 
 	Parameter REFRESH_TIMER bound to: 5970 - type: integer 
 	Parameter REFRESH_TIMER_WIDTH bound to: 13 - type: integer 
-INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_wrlvl' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v:90]
+INFO: [Synth 8-6157] synthesizing module 'mig_7series_v4_2_ddr_phy_wrlvl' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v:90]
 INFO: [Common 17-14] Message 'Synth 8-6157' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter DQS_CNT_WIDTH bound to: 2 - type: integer 
@@ -3648,8 +3648,8 @@ INFO: [Common 17-14] Message 'Synth 8-6157' appears 100 times and further instan
 	Parameter FAST_CAL_FINE bound to: 45 - type: integer 
 	Parameter FAST_CAL_COARSE bound to: 1 - type: integer 
 	Parameter REDO_COARSE bound to: 2 - type: integer 
-INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v:797]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_wrlvl' (61#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v:90]
+INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v:797]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_wrlvl' (61#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrlvl.v:90]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter tCK bound to: 2500 - type: integer 
 	Parameter DQS_CNT_WIDTH bound to: 2 - type: integer 
@@ -3661,7 +3661,7 @@ INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_wrlvl' (
 	Parameter CALC_TAP_CNT bound to: 350 - type: integer 
 	Parameter TAP_CNT bound to: 0 - type: integer 
 	Parameter TAP_DEC bound to: 29 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_ck_addr_cmd_delay' (62#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ck_addr_cmd_delay.v:68]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_ck_addr_cmd_delay' (62#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_ck_addr_cmd_delay.v:68]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter nCK_PER_CLK bound to: 4 - type: integer 
 	Parameter nCL bound to: 6 - type: integer 
@@ -3709,7 +3709,7 @@ INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_ck_addr_
 	Parameter FINE_DEC_PREWAIT bound to: 4'b1101 
 	Parameter FINAL_WAIT bound to: 4'b1110 
 	Parameter FINE_ADJ_DONE bound to: 4'b1111 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_dqs_found_cal_hr' (63#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal_hr.v:79]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_dqs_found_cal_hr' (63#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_dqs_found_cal_hr.v:79]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter nCK_PER_CLK bound to: 4 - type: integer 
 	Parameter CLK_PERIOD bound to: 10000 - type: integer 
@@ -3768,8 +3768,8 @@ INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_dqs_foun
 	Parameter CAL1_NEW_DQS_PREWAIT bound to: 6'b100000 
 	Parameter CAL1_RD_STOP_FOR_PI_INC bound to: 6'b100001 
 	Parameter CAL1_CENTER_WAIT bound to: 6'b100010 
-INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_rdlvl.v:2746]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_rdlvl' (64#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_rdlvl.v:81]
+INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_rdlvl.v:2746]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_rdlvl' (64#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_rdlvl.v:81]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter nCK_PER_CLK bound to: 4 - type: integer 
 	Parameter DQ_WIDTH bound to: 32 - type: integer 
@@ -3812,8 +3812,8 @@ INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_rdlvl' (
 	Parameter MATCH_ALL_ONE bound to: 8'b11111111 
 	Parameter MIN_PASS bound to: 8'b00000000 
 	Parameter MIN_LEFT bound to: 8'b10000000 
-INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_prbs_rdlvl.v:1152]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_prbs_rdlvl' (65#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_prbs_rdlvl.v:79]
+INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_prbs_rdlvl.v:1152]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_prbs_rdlvl' (65#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_prbs_rdlvl.v:79]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter PRBS_WIDTH bound to: 64 - type: integer 
 	Parameter DQS_CNT_WIDTH bound to: 2 - type: integer 
@@ -3827,7 +3827,7 @@ INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_prbs_rdl
 	Parameter BRAM_ADDR_WIDTH bound to: 8 - type: integer 
 	Parameter BRAM_DATA_WIDTH bound to: 18 - type: integer 
 	Parameter BRAM_DEPTH bound to: 256 - type: integer 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_prbs_gen' (66#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_prbs_gen.v:92]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_prbs_gen' (66#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_prbs_gen.v:92]
 	Parameter tCK bound to: 2500 - type: integer 
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter nCK_PER_CLK bound to: 4 - type: integer 
@@ -3985,10 +3985,10 @@ INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_prbs_gen' (6
 	Parameter INIT_OCAL_CENTER_ACT_WAIT bound to: 7'b1000010 
 	Parameter INIT_RDLVL_COMPLEX_PI_WAIT bound to: 7'b1000011 
 	Parameter INIT_SKIP_CALIB_WAIT bound to: 7'b1000100 
-INFO: [Synth 8-226] default block is never used [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_init.v:5273]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_init' (67#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_init.v:89]
-WARNING: [Synth 8-7071] port 'complex_oclk_prech_req' of module 'mig_7series_v4_2_ddr_phy_init' is unconnected for instance 'u_ddr_phy_init' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v:1367]
-WARNING: [Synth 8-7023] instance 'u_ddr_phy_init' of module 'mig_7series_v4_2_ddr_phy_init' has 131 connections declared, but only 130 given [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v:1367]
+INFO: [Synth 8-226] default block is never used [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_init.v:5273]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_init' (67#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_init.v:89]
+WARNING: [Synth 8-7071] port 'complex_oclk_prech_req' of module 'mig_7series_v4_2_ddr_phy_init' is unconnected for instance 'u_ddr_phy_init' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v:1367]
+WARNING: [Synth 8-7023] instance 'u_ddr_phy_init' of module 'mig_7series_v4_2_ddr_phy_init' has 131 connections declared, but only 130 given [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_calib_top.v:1367]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter nCK_PER_CLK bound to: 4 - type: integer 
 	Parameter CLK_PERIOD bound to: 10000 - type: integer 
@@ -4012,8 +4012,8 @@ WARNING: [Synth 8-7023] instance 'u_ddr_phy_init' of module 'mig_7series_v4_2_dd
 	Parameter CAL2_DONE bound to: 4'b0110 
 	Parameter CAL2_SANITY_WAIT bound to: 4'b0111 
 	Parameter CAL2_ERR bound to: 4'b1000 
-INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrcal.v:1130]
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_wrcal' (68#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrcal.v:77]
+INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrcal.v:1130]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_wrcal' (68#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_wrcal.v:77]
 	Parameter SKIP_CALIB bound to: FALSE - type: string 
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter TEMP_INCDEC bound to: 1465 - type: integer 
@@ -4033,9 +4033,9 @@ INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_wrcal' (
 	Parameter TWO_DEC bound to: 11'b00100000000 
 	Parameter THREE_DEC bound to: 11'b01000000000 
 	Parameter FOUR_DEC bound to: 11'b10000000000 
-INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_tempmon' (69#1) [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_tempmon.v:69]
+INFO: [Synth 8-6155] done synthesizing module 'mig_7series_v4_2_ddr_phy_tempmon' (69#1) [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_tempmon.v:69]
 INFO: [Common 17-14] Message 'Synth 8-6155' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
-WARNING: [Synth 8-689] width (12) of port connection 'pi_dqs_found_lanes' does not match port width (8) of module 'mig_7series_v4_2_ddr_calib_top' [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_top.v:1340]
+WARNING: [Synth 8-689] width (12) of port connection 'pi_dqs_found_lanes' does not match port width (8) of module 'mig_7series_v4_2_ddr_calib_top' [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/phy/mig_7series_v4_2_ddr_phy_top.v:1340]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter APP_DATA_WIDTH bound to: 256 - type: integer 
 	Parameter APP_MASK_WIDTH bound to: 32 - type: integer 
@@ -4076,8 +4076,8 @@ WARNING: [Synth 8-689] width (12) of port connection 'pi_dqs_found_lanes' does n
 	Parameter REMAINDER bound to: 0 - type: integer 
 	Parameter RAM_CNT bound to: 48 - type: integer 
 	Parameter RAM_WIDTH bound to: 288 - type: integer 
-INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_wr_data.v:342]
-INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_wr_data.v:380]
+INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_wr_data.v:342]
+INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_wr_data.v:380]
 	Parameter TCQ bound to: 100 - type: integer 
 	Parameter APP_DATA_WIDTH bound to: 256 - type: integer 
 	Parameter DATA_BUF_ADDR_WIDTH bound to: 5 - type: integer 
@@ -4089,16 +4089,16 @@ INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzi
 	Parameter REMAINDER bound to: 4 - type: integer 
 	Parameter RAM_CNT bound to: 43 - type: integer 
 	Parameter RAM_WIDTH bound to: 258 - type: integer 
-INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:406]
-WARNING: [Synth 8-567] referenced signal 'not_strict_mode.occ_cnt_r' should be on the sensitivity list [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:403]
-WARNING: [Synth 8-567] referenced signal 'not_strict_mode.free_rd_buf' should be on the sensitivity list [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:403]
-WARNING: [Synth 8-567] referenced signal 'not_strict_mode.occ_minus_one' should be on the sensitivity list [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:403]
-WARNING: [Synth 8-567] referenced signal 'not_strict_mode.occ_plus_one' should be on the sensitivity list [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:403]
-WARNING: [Synth 8-567] referenced signal 'not_strict_mode.rd_data_buf_addr_r_lcl' should be on the sensitivity list [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:432]
-WARNING: [Synth 8-7071] port 'device_temp' of module 'mig_7series_0' is unconnected for instance 'u_mig_7series_0' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_top.v:130]
-WARNING: [Synth 8-7023] instance 'u_mig_7series_0' of module 'mig_7series_0' has 40 connections declared, but only 39 given [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_top.v:130]
-WARNING: [Synth 8-689] width (11) of port connection 'wr_data_count' does not match port width (8) of module 'rd_fifo' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_fifo_ctrl.v:223]
-WARNING: [Synth 8-689] width (11) of port connection 'rd_data_count' does not match port width (8) of module 'wr_fifo' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_fifo_ctrl.v:238]
+INFO: [Synth 8-155] case statement is not full and has no default [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:406]
+WARNING: [Synth 8-567] referenced signal 'not_strict_mode.occ_cnt_r' should be on the sensitivity list [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:403]
+WARNING: [Synth 8-567] referenced signal 'not_strict_mode.free_rd_buf' should be on the sensitivity list [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:403]
+WARNING: [Synth 8-567] referenced signal 'not_strict_mode.occ_minus_one' should be on the sensitivity list [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:403]
+WARNING: [Synth 8-567] referenced signal 'not_strict_mode.occ_plus_one' should be on the sensitivity list [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:403]
+WARNING: [Synth 8-567] referenced signal 'not_strict_mode.rd_data_buf_addr_r_lcl' should be on the sensitivity list [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/rtl/ui/mig_7series_v4_2_ui_rd_data.v:432]
+WARNING: [Synth 8-7071] port 'device_temp' of module 'mig_7series_0' is unconnected for instance 'u_mig_7series_0' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_top.v:130]
+WARNING: [Synth 8-7023] instance 'u_mig_7series_0' of module 'mig_7series_0' has 40 connections declared, but only 39 given [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_top.v:130]
+WARNING: [Synth 8-689] width (11) of port connection 'wr_data_count' does not match port width (8) of module 'rd_fifo' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_fifo_ctrl.v:223]
+WARNING: [Synth 8-689] width (11) of port connection 'rd_data_count' does not match port width (8) of module 'wr_fifo' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_fifo_ctrl.v:238]
 	Parameter H_SYNC bound to: 11'b00010001000 
 	Parameter H_BACK bound to: 11'b00010100000 
 	Parameter H_DISP bound to: 11'b10000000000 
@@ -4109,7 +4109,7 @@ WARNING: [Synth 8-689] width (11) of port connection 'rd_data_count' does not ma
 	Parameter V_DISP bound to: 11'b01100000000 
 	Parameter V_FRONT bound to: 11'b00000000011 
 	Parameter V_TOTAL bound to: 11'b01100100110 
-WARNING: [Synth 8-689] width (24) of port connection 'video_rgb' does not match port width (16) of module 'video_driver' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:75]
+WARNING: [Synth 8-689] width (24) of port connection 'video_rgb' does not match port width (16) of module 'video_driver' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/hdmi_top.v:75]
 	Parameter CTRLTOKEN0 bound to: 10'b1101010100 
 	Parameter CTRLTOKEN1 bound to: 10'b0010101011 
 	Parameter CTRLTOKEN2 bound to: 10'b0101010100 
@@ -4167,87 +4167,87 @@ WARNING: [Synth 8-689] width (24) of port connection 'video_rgb' does not match 
 	Parameter CAPACITANCE bound to: DONT_CARE - type: string 
 	Parameter IOSTANDARD bound to: TMDS_33 - type: string 
 	Parameter SLEW bound to: SLOW - type: string 
-WARNING: [Synth 8-689] width (13) of port connection 'h_disp' does not match port width (11) of module 'hdmi_top' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:237]
-INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'reset_module_inst'. This will prevent further optimization [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:65]
-INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'u_ddr3_top'. This will prevent further optimization [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:167]
-INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'u_sd_ctrl_top'. This will prevent further optimization [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:141]
-INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'u_clk_wiz_0'. This will prevent further optimization [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:208]
-INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'u_sd_read_photo'. This will prevent further optimization [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:125]
-INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'u_hdmi_top'. This will prevent further optimization [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:226]
+WARNING: [Synth 8-689] width (13) of port connection 'h_disp' does not match port width (11) of module 'hdmi_top' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:237]
+INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'reset_module_inst'. This will prevent further optimization [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:65]
+INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'u_ddr3_top'. This will prevent further optimization [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:167]
+INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'u_sd_ctrl_top'. This will prevent further optimization [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:141]
+INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'u_clk_wiz_0'. This will prevent further optimization [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:208]
+INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'u_sd_read_photo'. This will prevent further optimization [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:125]
+INFO: [Synth 8-6071] Mark debug on the nets applies keep_hierarchy on instance 'u_hdmi_top'. This will prevent further optimization [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:226]
 ---------------------------------------------------------------------------------
-Finished RTL Elaboration : Time (s): cpu = 00:00:10 ; elapsed = 00:00:12 . Memory (MB): peak = 1460.621 ; gain = 347.879
+Finished RTL Elaboration : Time (s): cpu = 00:00:12 ; elapsed = 00:00:15 . Memory (MB): peak = 1459.641 ; gain = 346.039
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Handling Custom Attributes
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Handling Custom Attributes : Time (s): cpu = 00:00:12 ; elapsed = 00:00:14 . Memory (MB): peak = 1478.953 ; gain = 366.211
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:14 ; elapsed = 00:00:17 . Memory (MB): peak = 1475.992 ; gain = 362.391
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:12 ; elapsed = 00:00:14 . Memory (MB): peak = 1478.953 ; gain = 366.211
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:14 ; elapsed = 00:00:17 . Memory (MB): peak = 1475.992 ; gain = 362.391
 ---------------------------------------------------------------------------------
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.343 . Memory (MB): peak = 1478.953 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.430 . Memory (MB): peak = 1475.992 ; gain = 0.000
 INFO: [Netlist 29-17] Analyzing 218 Unisim elements for replacement
 INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
 INFO: [Project 1-570] Preparing netlist for logic optimization
 
 Processing XDC Constraints
 Initializing timing engine
-Parsing XDC File [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/rd_fifo/rd_fifo/rd_fifo_in_context.xdc] for cell 'u_ddr3_top/u_ddr3_fifo_ctrl/u_rd_fifo'
-Finished Parsing XDC File [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/rd_fifo/rd_fifo/rd_fifo_in_context.xdc] for cell 'u_ddr3_top/u_ddr3_fifo_ctrl/u_rd_fifo'
-Parsing XDC File [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/wr_fifo/wr_fifo/wr_fifo_in_context.xdc] for cell 'u_ddr3_top/u_ddr3_fifo_ctrl/u_wr_fifo'
-Finished Parsing XDC File [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/wr_fifo/wr_fifo/wr_fifo_in_context.xdc] for cell 'u_ddr3_top/u_ddr3_fifo_ctrl/u_wr_fifo'
-Parsing XDC File [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc] for cell 'u_clk_wiz_0'
-WARNING: [Vivado 12-584] No ports matched ''. [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc:2]
-WARNING: [Vivado 12-584] No ports matched ''. [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc:4]
-WARNING: [Vivado 12-584] No ports matched ''. [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc:6]
-WARNING: [Vivado 12-584] No ports matched ''. [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc:8]
-WARNING: [Vivado 12-584] No ports matched ''. [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc:10]
-Finished Parsing XDC File [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc] for cell 'u_clk_wiz_0'
-Parsing XDC File [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc] for cell 'u_ddr3_top/u_mig_7series_0'
-WARNING: [Designutils 20-1567] Use of 'set_multicycle_path' with '-hold' is not supported by synthesis. The constraint will not be passed to synthesis. [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc:496]
-WARNING: [Designutils 20-1567] Use of 'set_multicycle_path' with '-hold' is not supported by synthesis. The constraint will not be passed to synthesis. [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc:503]
-Finished Parsing XDC File [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc] for cell 'u_ddr3_top/u_mig_7series_0'
-INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/sd_bmp_hdmi_propImpl.xdc].
+Parsing XDC File [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/rd_fifo/rd_fifo/rd_fifo_in_context.xdc] for cell 'u_ddr3_top/u_ddr3_fifo_ctrl/u_rd_fifo'
+Finished Parsing XDC File [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/rd_fifo/rd_fifo/rd_fifo_in_context.xdc] for cell 'u_ddr3_top/u_ddr3_fifo_ctrl/u_rd_fifo'
+Parsing XDC File [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/wr_fifo/wr_fifo/wr_fifo_in_context.xdc] for cell 'u_ddr3_top/u_ddr3_fifo_ctrl/u_wr_fifo'
+Finished Parsing XDC File [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/wr_fifo/wr_fifo/wr_fifo_in_context.xdc] for cell 'u_ddr3_top/u_ddr3_fifo_ctrl/u_wr_fifo'
+Parsing XDC File [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc] for cell 'u_clk_wiz_0'
+WARNING: [Vivado 12-584] No ports matched ''. [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc:2]
+WARNING: [Vivado 12-584] No ports matched ''. [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc:4]
+WARNING: [Vivado 12-584] No ports matched ''. [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc:6]
+WARNING: [Vivado 12-584] No ports matched ''. [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc:8]
+WARNING: [Vivado 12-584] No ports matched ''. [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc:10]
+Finished Parsing XDC File [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0/clk_wiz_0_in_context.xdc] for cell 'u_clk_wiz_0'
+Parsing XDC File [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc] for cell 'u_ddr3_top/u_mig_7series_0'
+WARNING: [Designutils 20-1567] Use of 'set_multicycle_path' with '-hold' is not supported by synthesis. The constraint will not be passed to synthesis. [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc:496]
+WARNING: [Designutils 20-1567] Use of 'set_multicycle_path' with '-hold' is not supported by synthesis. The constraint will not be passed to synthesis. [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc:503]
+Finished Parsing XDC File [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc] for cell 'u_ddr3_top/u_mig_7series_0'
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/sd_bmp_hdmi_propImpl.xdc].
 Resolution: To avoid this warning, move constraints listed in [.Xil/sd_bmp_hdmi_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
-Parsing XDC File [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/constrs_1/new/pin.xdc]
-Finished Parsing XDC File [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/constrs_1/new/pin.xdc]
-INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/constrs_1/new/pin.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/sd_bmp_hdmi_propImpl.xdc].
+Parsing XDC File [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/constrs_1/new/pin.xdc]
+Finished Parsing XDC File [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/constrs_1/new/pin.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/constrs_1/new/pin.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/sd_bmp_hdmi_propImpl.xdc].
 Resolution: To avoid this warning, move constraints listed in [.Xil/sd_bmp_hdmi_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
-Parsing XDC File [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/synth_1/dont_touch.xdc]
-Finished Parsing XDC File [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/synth_1/dont_touch.xdc]
+Parsing XDC File [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/synth_1/dont_touch.xdc]
+Finished Parsing XDC File [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/synth_1/dont_touch.xdc]
 INFO: [Timing 38-2] Deriving generated clocks
 Completed Processing XDC Constraints
 
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.005 . Memory (MB): peak = 1585.535 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.007 . Memory (MB): peak = 1588.785 ; gain = 0.000
 INFO: [Project 1-111] Unisim Transformation Summary:
   A total of 132 instances were transformed.
   IOBUFDS_DIFF_OUT_INTERMDISABLE => IOBUFDS_DIFF_OUT_INTERMDISABLE (IBUFDS_INTERMDISABLE_INT(x2), INV, OBUFTDS(x2)): 4 instances
   IOBUF_INTERMDISABLE => IOBUF_INTERMDISABLE (IBUF_INTERMDISABLE, OBUFT): 32 instances
   RAM32M => RAM32M (RAMD32(x6), RAMS32(x2)): 96 instances
 
-Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.108 . Memory (MB): peak = 1585.535 ; gain = 0.000
+Constraint Validation Runtime : Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.150 . Memory (MB): peak = 1588.785 ; gain = 0.000
 ---------------------------------------------------------------------------------
-Finished Constraint Validation : Time (s): cpu = 00:00:20 ; elapsed = 00:00:24 . Memory (MB): peak = 1585.535 ; gain = 472.793
+Finished Constraint Validation : Time (s): cpu = 00:00:23 ; elapsed = 00:00:30 . Memory (MB): peak = 1588.785 ; gain = 475.184
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Loading Part and Timing Information
 ---------------------------------------------------------------------------------
 Loading part: xc7a35tfgg484-2
 ---------------------------------------------------------------------------------
-Finished Loading Part and Timing Information : Time (s): cpu = 00:00:20 ; elapsed = 00:00:24 . Memory (MB): peak = 1585.535 ; gain = 472.793
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:23 ; elapsed = 00:00:30 . Memory (MB): peak = 1588.785 ; gain = 475.184
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Applying 'set_property' XDC Constraints
 ---------------------------------------------------------------------------------
-Applied set_property IO_BUFFER_TYPE = NONE for ddr3_ck_n[0]. (constraint file  c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc, line 27).
-Applied set_property IO_BUFFER_TYPE = NONE for ddr3_ck_p[0]. (constraint file  c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc, line 28).
+Applied set_property IO_BUFFER_TYPE = NONE for ddr3_ck_n[0]. (constraint file  c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc, line 27).
+Applied set_property IO_BUFFER_TYPE = NONE for ddr3_ck_p[0]. (constraint file  c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc, line 28).
 Applied set_property DONT_TOUCH = true for u_ddr3_top/u_mig_7series_0. (constraint file  auto generated constraint, line ).
 Applied set_property DONT_TOUCH = true for u_ddr3_top/u_ddr3_fifo_ctrl/u_rd_fifo. (constraint file  auto generated constraint, line ).
 Applied set_property DONT_TOUCH = true for u_ddr3_top/u_ddr3_fifo_ctrl/u_wr_fifo. (constraint file  auto generated constraint, line ).
 Applied set_property DONT_TOUCH = true for u_clk_wiz_0. (constraint file  auto generated constraint, line ).
 ---------------------------------------------------------------------------------
-Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:20 ; elapsed = 00:00:24 . Memory (MB): peak = 1585.535 ; gain = 472.793
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:24 ; elapsed = 00:00:30 . Memory (MB): peak = 1588.785 ; gain = 475.184
 ---------------------------------------------------------------------------------
 INFO: [Synth 8-802] inferred FSM for state register 'rd_flow_cnt_reg' in module 'sd_read_photo'
 INFO: [Synth 8-802] inferred FSM for state register 'ddr_flow_cnt_reg' in module 'sd_read_photo'
@@ -4406,7 +4406,7 @@ INFO: [Synth 8-3354] encoded FSM with state register 'cal1_state_r_reg' using en
 ---------------------------------------------------------------------------------------------------
 INFO: [Synth 8-3898] No Re-encoding of one hot register 'tempmon_state_reg' in module 'mig_7series_v4_2_ddr_phy_tempmon'
 ---------------------------------------------------------------------------------
-Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:30 ; elapsed = 00:00:36 . Memory (MB): peak = 1585.535 ; gain = 472.793
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:35 ; elapsed = 00:00:44 . Memory (MB): peak = 1588.785 ; gain = 475.184
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start RTL Component Statistics 
@@ -4499,12 +4499,11 @@ Detailed RTL Component Info :
 	   5 Input   24 Bit        Muxes := 2     
 	   2 Input   22 Bit        Muxes := 8     
 	   3 Input   16 Bit        Muxes := 1     
-	   2 Input   16 Bit        Muxes := 2     
+	   2 Input   16 Bit        Muxes := 3     
 	   3 Input   15 Bit        Muxes := 1     
 	   2 Input   15 Bit        Muxes := 8     
 	   4 Input   15 Bit        Muxes := 1     
 	   8 Input   15 Bit        Muxes := 1     
-	   2 Input   14 Bit        Muxes := 1     
 	   2 Input   13 Bit        Muxes := 1     
 	   2 Input   12 Bit        Muxes := 2     
 	  12 Input   11 Bit        Muxes := 1     
@@ -4590,7 +4589,7 @@ Finished Part Resource Summary
 Start Cross Boundary and Area Optimization
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:01:23 ; elapsed = 00:01:37 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:01:35 ; elapsed = 00:01:54 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start ROM, RAM, DSP and Shift Register Reporting
@@ -4629,15 +4628,15 @@ Finished ROM, RAM, DSP and Shift Register Reporting
 ---------------------------------------------------------------------------------
 Start Applying XDC Timing Constraints
 ---------------------------------------------------------------------------------
-WARNING: [Synth 8-3321] set_false_path : Empty through list for constraint at line 509 of c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc. [c:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc:509]
+WARNING: [Synth 8-3321] set_false_path : Empty through list for constraint at line 509 of c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc. [c:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/ip/mig_7series_0/mig_7series_0/user_design/constraints/mig_7series_0.xdc:509]
 ---------------------------------------------------------------------------------
-Finished Applying XDC Timing Constraints : Time (s): cpu = 00:01:28 ; elapsed = 00:01:43 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:01:40 ; elapsed = 00:02:00 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Timing Optimization
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Timing Optimization : Time (s): cpu = 00:01:29 ; elapsed = 00:01:44 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished Timing Optimization : Time (s): cpu = 00:01:41 ; elapsed = 00:02:01 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start ROM, RAM, DSP and Shift Register Reporting
@@ -4668,12 +4667,12 @@ Start Technology Mapping
 ---------------------------------------------------------------------------------
 Found timing loop:
      0: reset_module_inst/i_21/O (LUT1)
-      [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:84]
+      [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:84]
      1: reset_module_inst/i_21/O (LUT1)
-CRITICAL WARNING: [Synth 8-295] found timing loop. [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:27]
+CRITICAL WARNING: [Synth 8-295] found timing loop. [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:27]
 WARNING: [Synth 8-326] inferred exception to break timing loop: 'set_false_path -through i_3/O'
 ---------------------------------------------------------------------------------
-Finished Technology Mapping : Time (s): cpu = 00:01:33 ; elapsed = 00:01:48 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished Technology Mapping : Time (s): cpu = 00:01:47 ; elapsed = 00:02:07 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start IO Insertion
@@ -4693,19 +4692,19 @@ Finished Final Netlist Cleanup
 WARNING: [Synth 8-3295] tying undriven pin u_mig_7series_0:app_sr_req to constant 0
 WARNING: [Synth 8-3295] tying undriven pin u_mig_7series_0:app_ref_req to constant 0
 WARNING: [Synth 8-3295] tying undriven pin u_mig_7series_0:app_zq_req to constant 0
-WARNING: [Synth 8-5396] Clock pin C has keep related attribute (keep/mark_debug/dont_touch) which could create extra logic on its net [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_fifo_ctrl.v:144]
-WARNING: [Synth 8-5396] Clock pin C has keep related attribute (keep/mark_debug/dont_touch) which could create extra logic on its net [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_fifo_ctrl.v:102]
+WARNING: [Synth 8-5396] Clock pin C has keep related attribute (keep/mark_debug/dont_touch) which could create extra logic on its net [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_fifo_ctrl.v:144]
+WARNING: [Synth 8-5396] Clock pin C has keep related attribute (keep/mark_debug/dont_touch) which could create extra logic on its net [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/ddr3_fifo_ctrl.v:102]
 ---------------------------------------------------------------------------------
-Finished IO Insertion : Time (s): cpu = 00:01:35 ; elapsed = 00:01:51 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished IO Insertion : Time (s): cpu = 00:01:50 ; elapsed = 00:02:10 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Renaming Generated Instances
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Renaming Generated Instances : Time (s): cpu = 00:01:35 ; elapsed = 00:01:51 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished Renaming Generated Instances : Time (s): cpu = 00:01:50 ; elapsed = 00:02:10 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
-CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin u_mig_7series_0_mig/sys_rst_o with 1st driver pin 'reset_module_inst/rst_o_reg_reg_inv/Q' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:75]
-CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin u_mig_7series_0_mig/sys_rst_o with 2nd driver pin 'u_ddr3_top_i_1/O' [C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:112]
+CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin u_mig_7series_0_mig/sys_rst_o with 1st driver pin 'reset_module_inst/rst_o_reg_reg_inv/Q' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/reset_module.v:75]
+CRITICAL WARNING: [Synth 8-6859] multi-driven net on pin u_mig_7series_0_mig/sys_rst_o with 2nd driver pin 'u_ddr3_top_i_1/O' [C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.srcs/sources_1/new/sd_bmp_hdmi.v:112]
 
 Report Check Netlist: 
 +------+------------------+-------+---------+-------+------------------+
@@ -4717,25 +4716,25 @@ Report Check Netlist:
 Start Rebuilding User Hierarchy
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Rebuilding User Hierarchy : Time (s): cpu = 00:01:37 ; elapsed = 00:01:53 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:01:51 ; elapsed = 00:02:12 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Renaming Generated Ports
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Renaming Generated Ports : Time (s): cpu = 00:01:37 ; elapsed = 00:01:53 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished Renaming Generated Ports : Time (s): cpu = 00:01:51 ; elapsed = 00:02:12 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Handling Custom Attributes
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Handling Custom Attributes : Time (s): cpu = 00:01:37 ; elapsed = 00:01:53 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished Handling Custom Attributes : Time (s): cpu = 00:01:52 ; elapsed = 00:02:13 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start Renaming Generated Nets
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-Finished Renaming Generated Nets : Time (s): cpu = 00:01:37 ; elapsed = 00:01:53 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished Renaming Generated Nets : Time (s): cpu = 00:01:52 ; elapsed = 00:02:13 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 Start ROM, RAM, DSP and Shift Register Reporting
@@ -4797,8 +4796,8 @@ Report Cell Usage:
 |12    |ISERDESE2                      |    32|
 |13    |LUT1                           |   417|
 |14    |LUT2                           |   746|
-|15    |LUT3                           |  1699|
-|16    |LUT4                           |  1193|
+|15    |LUT3                           |  1700|
+|16    |LUT4                           |  1192|
 |17    |LUT5                           |  1316|
 |18    |LUT6                           |  2021|
 |19    |MMCME2_ADV                     |     1|
@@ -4829,18 +4828,18 @@ Report Cell Usage:
 |50    |OBUFT                          |     4|
 +------+-------------------------------+------+
 ---------------------------------------------------------------------------------
-Finished Writing Synthesis Report : Time (s): cpu = 00:01:37 ; elapsed = 00:01:53 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Finished Writing Synthesis Report : Time (s): cpu = 00:01:52 ; elapsed = 00:02:13 . Memory (MB): peak = 1751.516 ; gain = 637.914
 ---------------------------------------------------------------------------------
 Synthesis finished with 0 errors, 3 critical warnings and 7 warnings.
-Synthesis Optimization Runtime : Time (s): cpu = 00:01:20 ; elapsed = 00:01:47 . Memory (MB): peak = 1748.160 ; gain = 528.836
-Synthesis Optimization Complete : Time (s): cpu = 00:01:37 ; elapsed = 00:01:53 . Memory (MB): peak = 1748.160 ; gain = 635.418
+Synthesis Optimization Runtime : Time (s): cpu = 00:01:32 ; elapsed = 00:02:04 . Memory (MB): peak = 1751.516 ; gain = 525.121
+Synthesis Optimization Complete : Time (s): cpu = 00:01:52 ; elapsed = 00:02:13 . Memory (MB): peak = 1751.516 ; gain = 637.914
 INFO: [Project 1-571] Translating synthesized netlist
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.278 . Memory (MB): peak = 1748.160 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.270 . Memory (MB): peak = 1751.516 ; gain = 0.000
 INFO: [Netlist 29-17] Analyzing 623 Unisim elements for replacement
 INFO: [Netlist 29-28] Unisim Transformation completed in 1 CPU seconds
 INFO: [Project 1-570] Preparing netlist for logic optimization
 INFO: [Opt 31-138] Pushed 5 inverter(s) to 34 load pin(s).
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.003 . Memory (MB): peak = 1748.160 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.003 . Memory (MB): peak = 1751.516 ; gain = 0.000
 INFO: [Project 1-111] Unisim Transformation Summary:
   A total of 261 instances were transformed.
   IOBUFDS_DIFF_OUT_INTERMDISABLE => IOBUFDS_DIFF_OUT_INTERMDISABLE (IBUFDS_INTERMDISABLE_INT(x2), INV, OBUFTDS(x2)): 4 instances
@@ -4851,11 +4850,9 @@ INFO: [Project 1-111] Unisim Transformation Summary:
 INFO: [Common 17-83] Releasing license: Synthesis
 257 Infos, 66 Warnings, 3 Critical Warnings and 0 Errors encountered.
 synth_design completed successfully
-synth_design: Time (s): cpu = 00:01:43 ; elapsed = 00:02:01 . Memory (MB): peak = 1748.160 ; gain = 635.418
-INFO: [Common 17-600] The following parameters have non-default value.
-tcl.collectionResultDisplayLimit
+synth_design: Time (s): cpu = 00:01:58 ; elapsed = 00:02:21 . Memory (MB): peak = 1751.516 ; gain = 637.914
 WARNING: [Constraints 18-5210] No constraints selected for write.
 Resolution: This message can indicate that there are no constraints for the design, or it can indicate that the used_in flags are set such that the constraints are ignored. This later case is used when running synth_design to not write synthesis constraints to the resulting checkpoint. Instead, project constraints are read when the synthesized design is opened.
-INFO: [Common 17-1381] The checkpoint 'C:/Users/txzing/Desktop/1_FPGA_Design/1_Verilog_35T/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/synth_1/sd_bmp_hdmi.dcp' has been generated.
+INFO: [Common 17-1381] The checkpoint 'C:/Users/txzing/Desktop/test/Lattice_A7/A7/33_sd_bmp_hdmi/sd_bmp_hdmi.runs/synth_1/sd_bmp_hdmi.dcp' has been generated.
 INFO: [runtcl-4] Executing : report_utilization -file sd_bmp_hdmi_utilization_synth.rpt -pb sd_bmp_hdmi_utilization_synth.pb
-INFO: [Common 17-206] Exiting Vivado at Wed Jun 21 16:04:39 2023...
+INFO: [Common 17-206] Exiting Vivado at Thu Jul 27 10:10:54 2023...

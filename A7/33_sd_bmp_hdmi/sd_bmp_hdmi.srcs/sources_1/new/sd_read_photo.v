@@ -36,8 +36,8 @@ module sd_read_photo(
 
 //parameter define                          
 //设置两张图片的扇区地址,通过上位机WinHex软件查看
-parameter PHOTO_SECTION_ADDR0 = 32'd10432;//第一张图片扇区起始地址
-parameter PHOTO_SECTION_ADDR1 = 32'd15104;//第二张图片扇区起始地址
+parameter PHOTO_SECTION_ADDR0 = 32'd37152;//第一张图片扇区起始地址
+parameter PHOTO_SECTION_ADDR1 = 32'd46400;//第二张图片扇区起始地址
 //BMP文件首部长度=BMP文件头+信息头
 parameter BMP_HEAD_NUM = 6'd54;           //BMP文件头+信息头=14+40=54
 
